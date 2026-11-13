@@ -1,0 +1,381 @@
+"ID","rodata","data","hora","mandante","visitante","formacao_mandante","formacao_visitante","tecnico_mandante","tecnico_visitante","vencedor","arena","mandante_Placar","visitante_Placar","mandante_Estado","visitante_Estado",pontos_mandante,pontos_visitante
+"6506","1","27/4/2019","16:02","Sao Paulo","Botafogo-RJ","4-2-3-1","4-1-4-1","A. Stival","E. de Souza Barroca","Sao Paulo"," Morumbi","2","0","SP","RJ",3,0
+"6507","1","27/4/2019","19:00","Atletico-MG","Avai","4-2-3-1","4-1-4-1","R. Marques Santana","E. Machado Souto","Atletico-MG","Estádio Raimundo Sampaio","2","1","MG","SC",3,0
+"6508","1","27/4/2019","19:01","Chapecoense","Internacional","4-2-3-1","4-3-3","N. da Silveira Júnior","O. Hellmann","Chapecoense","Arena Condá","2","0","SC","RS",3,0
+"6509","1","27/4/2019","21:00","Flamengo","Cruzeiro","4-2-3-1","4-2-3-1","A. da Silva Braga","L. Venker de Menezes","Flamengo"," Maracanã","3","1","RJ","MG",3,0
+"6510","1","28/4/2019","11:03","Gremio","Santos","4-2-3-1","3-4-1-2","Renato Gaúcho","J. Sampaoli Moya","Santos","Arena do Grêmio","1","2","RS","SP",0,3
+"6511","1","28/4/2019","16:01","Bahia","Corinthians","4-2-3-1","4-1-4-1","R. Machado Marques","F. Carille","Bahia","Itaipava Arena Fonte Nova","3","2","BA","SP",3,0
+"6512","1","28/4/2019","16:03","Athletico-PR","Vasco","4-2-3-1","3-5-2","T. Retzalff Nunes","M. Gomes Valadares","Athletico-PR","Estádio Joaquim Américo Guimarães","4","1","PR","RJ",3,0
+"6513","1","28/4/2019","16:00","Ceara","CSA","4-2-3-1","4-2-3-1","E. Alves Moreira","M. Ribeiro Cabo","Ceara","Arena Castelão","4","0","CE","AL",3,0
+"6514","1","28/4/2019","19:00","Palmeiras","Fortaleza","4-2-3-1","4-4-2","L. Scolari","R. Ceni","Palmeiras","Allianz Parque","4","0","SP","CE",3,0
+"6515","1","28/4/2019","19:27","Fluminense","Goias","4-3-3","4-2-3-1","F. Diniz Silva","C. dos Santos Oliveira","Goias"," Maracanã","0","1","RJ","GO",0,3
+"6516","2","1/5/2019","16:01","Internacional","Flamengo","4-3-3","4-2-3-1","O. Hellmann","A. da Silva Braga","Internacional","Estádio José Pinheiro Borda","2","1","RS","RJ",3,0
+"6517","2","1/5/2019","16:00","CSA","Palmeiras","4-2-3-1","4-2-3-1","M. Ribeiro Cabo","L. Scolari","-","Estádio Rei Pelé","1","1","AL","SP",1,1
+"6518","2","1/5/2019","16:01","Corinthians","Chapecoense","4-1-4-1","4-4-1-1","F. Carille","N. da Silveira Júnior","Corinthians","Neo Química Arena","1","0","SP","SC",3,0
+"6519","2","1/5/2019","19:15","Cruzeiro","Ceara","4-2-3-1","4-2-3-1","L. Venker de Menezes","E. Alves Moreira","Cruzeiro"," Mineirão","1","0","MG","CE",3,0
+"6520","2","1/5/2019","19:17","Avai","Gremio","5-3-2","4-2-3-1","E. Machado Souto","Renato Gaúcho","-","  Ressacada","1","1","SC","RS",1,1
+"6521","2","1/5/2019","21:31","Goias","Sao Paulo","4-2-3-1","4-2-3-1","C. dos Santos Oliveira","A. Stival","Sao Paulo","Estádio do Governo do Estado de Goiás (Serra Dourada)","1","2","GO","SP",0,3
+"6522","2","1/5/2019","21:31","Vasco","Atletico-MG","4-2-3-1","4-1-4-1","M. Gomes Valadares","R. Marques Santana","Atletico-MG","Estádio Vasco da Gama","1","2","RJ","MG",0,3
+"6523","2","1/5/2019","21:31","Fortaleza","Athletico-PR","4-2-2-2","4-2-3-1","R. Ceni","T. Retzalff Nunes","Fortaleza","Arena Castelão","2","1","CE","PR",3,0
+"6524","2","2/5/2019","19:15","Santos","Fluminense","4-3-3","4-3-3","J. Sampaoli Moya","F. Diniz Silva","Santos","Estádio Urbano Caldeira","2","1","SP","RJ",3,0
+"6525","2","2/5/2019","20:01","Botafogo-RJ","Bahia","4-1-4-1","4-2-3-1","E. de Souza Barroca","R. Machado Marques","Botafogo-RJ","Estádio Nilton Santos","3","2","RJ","BA",3,0
+"6526","3","4/5/2019","19:01","Vasco","Corinthians","4-2-3-1","4-1-4-1","M. Gomes Valadares","F. Carille","-","Arena da Amazônia","1","1","RJ","SP",1,1
+"6527","3","4/5/2019","19:00","Palmeiras","Internacional","4-2-3-1","4-3-3","L. Scolari","O. Hellmann","Palmeiras","Allianz Parque","1","0","SP","RS",3,0
+"6528","3","4/5/2019","21:01","Ceara","Atletico-MG","4-2-3-1","4-2-3-1","E. Alves Moreira","R. Marques Santana","Atletico-MG","Arena Castelão","1","2","CE","MG",0,3
+"6529","3","5/5/2019","12:03","Chapecoense","Athletico-PR","4-4-1-1","5-3-2","N. da Silveira Júnior","T. Retzalff Nunes","-","Arena Condá","1","1","SC","PR",1,1
+"6530","3","5/5/2019","16:01","Sao Paulo","Flamengo","4-3-3","4-1-4-1","A. Stival","A. da Silva Braga","-"," Morumbi","1","1","SP","RJ",1,1
+"6531","3","5/5/2019","16:00","Botafogo-RJ","Fortaleza","4-1-4-1","4-4-2","E. de Souza Barroca","R. Ceni","Botafogo-RJ","Estádio Nilton Santos","1","0","RJ","CE",3,0
+"6532","3","5/5/2019","16:00","CSA","Santos","4-2-3-1","3-4-3","M. Ribeiro Cabo","J. Sampaoli Moya","-","Estádio Rei Pelé","0","0","AL","SP",1,1
+"6533","3","5/5/2019","16:00","Cruzeiro","Goias","4-2-3-1","4-2-3-1","L. Venker de Menezes","C. dos Santos Oliveira","Cruzeiro"," Mineirão","2","1","MG","GO",3,0
+"6534","3","5/5/2019","19:00","Gremio","Fluminense","4-2-3-1","4-1-4-1","Renato Gaúcho","F. Diniz Silva","Fluminense","Arena do Grêmio","4","5","RS","RJ",0,3
+"6535","3","5/5/2019","19:00","Bahia","Avai","4-2-3-1","5-3-2","R. Machado Marques","E. Machado Souto","Bahia","Itaipava Arena Fonte Nova","1","0","BA","SC",3,0
+"6536","4","11/5/2019","16:01","Fluminense","Botafogo-RJ","4-2-3-1","4-1-4-1","F. Diniz Silva","E. de Souza Barroca","Botafogo-RJ"," Maracanã","0","1","RJ","RJ",0,3
+"6537","4","11/5/2019","19:01","Corinthians","Gremio","4-1-4-1","4-2-3-1","F. Carille","Renato Gaúcho","-","Neo Química Arena","0","0","SP","RS",1,1
+"6538","4","11/5/2019","21:01","Goias","Ceara","4-2-3-1","4-2-3-1","C. dos Santos Oliveira","E. Alves Moreira","Goias","Estádio do Governo do Estado de Goiás (Serra Dourada)","2","1","GO","CE",3,0
+"6539","4","12/5/2019","11:00","Flamengo","Chapecoense","4-2-3-1","4-2-3-1","A. da Silva Braga","N. da Silveira Júnior","Flamengo"," Maracanã","2","1","RJ","SC",3,0
+"6540","4","12/5/2019","16:02","Santos","Vasco","4-3-3","3-4-3","J. Sampaoli Moya","M. Gomes Valadares","Santos","Estádio Municipal Paulo Machado de Carvalho","3","0","SP","RJ",3,0
+"6541","4","12/5/2019","10:53","Atletico-MG","Palmeiras","4-3-3","4-2-3-1","R. Marques Santana","L. Scolari","Palmeiras"," Mineirão","0","2","MG","SP",0,3
+"6542","4","12/5/2019","16:01","Internacional","Cruzeiro","4-3-3","4-2-3-1","O. Hellmann","L. Venker de Menezes","Internacional","Estádio José Pinheiro Borda","3","1","RS","MG",3,0
+"6543","4","12/5/2019","19:01","Avai","CSA","4-3-3","4-2-3-1","E. Machado Souto","M. Ribeiro Cabo","-","  Ressacada","0","0","SC","AL",1,1
+"6544","4","12/5/2019","19:00","Athletico-PR","Bahia","4-1-4-1","4-2-3-1","T. Retzalff Nunes","R. Machado Marques","Athletico-PR","Estádio Joaquim Américo Guimarães","1","0","PR","BA",3,0
+"6545","4","12/5/2019","19:00","Fortaleza","Sao Paulo","4-4-2","4-3-3","R. Ceni","A. Stival","Sao Paulo","Arena Castelão","0","1","CE","SP",0,3
+"6546","5","18/5/2019","18:00","Fluminense","Cruzeiro","4-1-4-1","4-2-3-1","F. Diniz Silva","L. Venker de Menezes","Fluminense"," Maracanã","4","1","RJ","MG",3,0
+"6547","5","18/5/2019","19:01","Palmeiras","Santos","4-2-3-1","3-5-2","L. Scolari","J. Sampaoli Moya","Palmeiras","Estádio Municipal Paulo Machado de Carvalho","4","0","SP","SP",3,0
+"6548","5","18/5/2019","19:00","Atletico-MG","Flamengo","4-2-3-1","4-2-3-1","R. Marques Santana","A. da Silva Braga","Atletico-MG","Estádio Raimundo Sampaio","2","1","MG","RJ",3,0
+"6549","5","19/5/2019","11:02","Sao Paulo","Bahia","4-2-3-1","4-3-3","A. Stival","R. Machado Marques","-"," Morumbi","0","0","SP","BA",1,1
+"6550","5","19/5/2019","16:01","Internacional","CSA","4-3-1-2","4-2-3-1","O. Hellmann","M. Ribeiro Cabo","Internacional","Estádio José Pinheiro Borda","2","0","RS","AL",3,0
+"6551","5","19/5/2019","16:00","Athletico-PR","Corinthians","4-4-2","4-2-3-1","T. Retzalff Nunes","F. Carille","Corinthians","Estádio Joaquim Américo Guimarães","0","2","PR","SP",0,3
+"6552","5","19/5/2019","16:01","Goias","Botafogo-RJ","4-2-3-1","4-1-4-1","C. dos Santos Oliveira","E. de Souza Barroca","Goias","Estádio do Governo do Estado de Goiás (Serra Dourada)","1","0","GO","RJ",3,0
+"6553","5","19/5/2019","16:00","Chapecoense","Fortaleza","4-1-4-1","4-4-2","N. da Silveira Júnior","R. Ceni","Fortaleza","Arena Condá","1","3","SC","CE",0,3
+"6554","5","19/5/2019","18:59","Vasco","Avai","4-2-3-1","4-1-4-1","V. Luxemburgo da Silva","E. Machado Souto","-","Estádio Vasco da Gama","1","1","RJ","SC",1,1
+"6555","5","19/5/2019","19:00","Ceara","Gremio","4-4-2","4-2-3-1","E. Alves Moreira","Renato Gaúcho","Ceara","Arena Castelão","2","1","CE","RS",3,0
+"6556","6","25/5/2019","16:00","Botafogo-RJ","Palmeiras","4-1-4-1","4-2-3-1","E. de Souza Barroca","L. Scolari","Palmeiras","Estádio Nacional de Brasília","0","1","RJ","SP",0,3
+"6557","6","25/5/2019","19:00","Gremio","Atletico-MG","4-2-3-1","4-2-3-1","Renato Gaúcho","R. Marques Santana","Gremio","Arena do Grêmio","1","0","RS","MG",3,0
+"6558","6","26/5/2019","16:02","Flamengo","Athletico-PR","4-1-4-1","4-4-2","A. da Silva Braga","T. Retzalff Nunes","Flamengo"," Maracanã","3","2","RJ","PR",3,0
+"6559","6","26/5/2019","16:01","Santos","Internacional","4-3-3","4-1-4-1","J. Sampaoli Moya","O. Hellmann","-","Estádio Urbano Caldeira","0","0","SP","RS",1,1
+"6560","6","26/5/2019","19:00","Fortaleza","Vasco","4-4-2","4-2-3-1","R. Ceni","V. Luxemburgo da Silva","-","Arena Castelão","1","1","CE","RJ",1,1
+"6561","6","26/5/2019","19:00","Cruzeiro","Chapecoense","4-1-4-1","4-4-1-1","L. Venker de Menezes","N. da Silveira Júnior","Chapecoense","Estádio Raimundo Sampaio","1","2","MG","SC",0,3
+"6562","6","26/5/2019","19:01","Bahia","Fluminense","4-1-4-1","4-1-4-1","R. Machado Marques","F. Diniz Silva","Bahia","Itaipava Arena Fonte Nova","3","2","BA","RJ",3,0
+"6563","6","26/5/2019","19:01","Corinthians","Sao Paulo","4-1-4-1","4-2-3-1","F. Carille","A. Stival","Corinthians","Neo Química Arena","1","0","SP","SP",3,0
+"6564","6","27/5/2019","20:01","CSA","Goias","4-2-3-1","4-2-3-1","M. Ribeiro Cabo","C. dos Santos Oliveira","CSA","Estádio Rei Pelé","1","0","AL","GO",3,0
+"6565","6","27/5/2019","20:00","Avai","Ceara","4-3-3","4-4-2","E. Machado Souto","E. Alves Moreira","Ceara","  Ressacada","1","2","SC","CE",0,3
+"6566","7","1/6/2019","16:01","Flamengo","Fortaleza","4-2-3-1","4-4-2","M. Salles","R. Ceni","Flamengo","Estádio Nilton Santos","2","0","RJ","CE",3,0
+"6567","7","1/6/2019","19:01","Bahia","Gremio","4-3-3","4-2-3-1","R. Machado Marques","Renato Gaúcho","Bahia","Estádio de Pituaçu","1","0","BA","RS",3,0
+"6568","7","2/6/2019","11:01","Botafogo-RJ","Vasco","4-1-4-1","4-1-4-1","E. de Souza Barroca","V. Luxemburgo da Silva","Botafogo-RJ","Estádio Nilton Santos","1","0","RJ","RJ",3,0
+"6569","7","2/6/2019","16:03","Ceara","Santos","4-4-2","4-3-3","E. Alves Moreira","J. Sampaoli Moya","Santos","Arena Castelão","0","1","CE","SP",0,3
+"6570","7","2/6/2019","16:40","Athletico-PR","Fluminense","4-2-3-1","4-3-3","T. Retzalff Nunes","F. Diniz Silva","Athletico-PR","Estádio Joaquim Américo Guimarães","3","0","PR","RJ",3,0
+"6571","7","2/6/2019","16:00","Sao Paulo","Cruzeiro","4-3-3","4-2-3-1","A. Stival","L. Venker de Menezes","-","Estádio Municipal Paulo Machado de Carvalho","1","1","SP","MG",1,1
+"6572","7","2/6/2019","19:00","Atletico-MG","CSA","4-2-3-1","4-2-3-1","R. Marques Santana","M. Ribeiro Cabo","Atletico-MG","Estádio Raimundo Sampaio","4","0","MG","AL",3,0
+"6573","7","2/6/2019","19:00","Chapecoense","Palmeiras","4-2-3-1","4-2-3-1","N. da Silveira Júnior","L. Scolari","Palmeiras","Arena Condá","1","2","SC","SP",0,3
+"6574","7","2/6/2019","19:00","Internacional","Avai","4-2-3-1","4-3-3","O. Hellmann","E. Machado Souto","Internacional","Estádio José Pinheiro Borda","2","0","RS","SC",3,0
+"6576","8","7/6/2019","20:30","Vasco","Internacional","4-3-3","4-3-3","V. Luxemburgo da Silva","O. Hellmann","Vasco","Estádio Vasco da Gama","2","1","RJ","RS",3,0
+"6577","8","8/6/2019","16:30","Palmeiras","Athletico-PR","4-2-3-1","4-1-4-1","L. Scolari","T. Retzalff Nunes","Palmeiras","Allianz Parque","1","0","SP","PR",3,0
+"6578","8","8/6/2019","19:00","Gremio","Fortaleza","4-2-3-1","4-2-3-1","Renato Gaúcho","R. Ceni","Gremio","Estádio Francisco Stédile (Centenário)","1","0","RS","CE",3,0
+"6579","8","8/6/2019","19:00","Cruzeiro","Corinthians","4-2-3-1","4-1-4-1","L. Venker de Menezes","F. Carille","-"," Mineirão","0","0","MG","SP",1,1
+"6580","8","8/6/2019","19:31","Ceara","Bahia","4-2-3-1","4-3-3","E. Alves Moreira","R. Machado Marques","-","Arena Castelão","0","0","CE","BA",1,1
+"6581","8","8/6/2019","21:00","Avai","Sao Paulo","4-2-3-1","4-2-3-1","E. Machado Souto","A. Stival","-","  Ressacada","0","0","SC","SP",1,1
+"6582","8","9/6/2019","19:01","CSA","Botafogo-RJ","4-2-3-1","4-1-4-1","M. Ribeiro Cabo","E. de Souza Barroca","Botafogo-RJ","Estádio Rei Pelé","1","2","AL","RJ",0,3
+"6583","8","9/6/2019","19:00","Fluminense","Flamengo","4-2-3-1","4-2-3-1","F. Diniz Silva","M. Salles","-"," Maracanã","0","0","RJ","RJ",1,1
+"6584","8","9/6/2019","19:00","Santos","Atletico-MG","4-3-3","4-2-3-1","J. Sampaoli Moya","R. Marques Santana","Santos","Estádio Urbano Caldeira","3","1","SP","MG",3,0
+"6585","8","10/6/2019","20:01","Goias","Chapecoense","4-2-3-1","4-2-3-1","C. dos Santos Oliveira","N. da Silveira Júnior","Goias","Estádio do Governo do Estado de Goiás (Serra Dourada)","3","1","GO","SC",3,0
+"6586","9","12/6/2019","19:17","Botafogo-RJ","Gremio","4-1-4-1","4-2-3-1","E. de Souza Barroca","Renato Gaúcho","Gremio","Estádio Nilton Santos","0","1","RJ","RS",0,3
+"6587","9","12/6/2019","21:01","Fortaleza","Cruzeiro","4-2-3-1","4-2-3-1","R. Ceni","L. Venker de Menezes","Fortaleza","Arena Castelão","2","1","CE","MG",3,0
+"6588","9","12/6/2019","21:30","Internacional","Bahia","4-3-3","4-1-4-1","O. Hellmann","R. Machado Marques","Internacional","Estádio José Pinheiro Borda","3","1","RS","BA",3,0
+"6589","9","12/6/2019","21:30","CSA","Flamengo","4-1-4-1","4-2-3-1","M. Ribeiro Cabo","M. Salles","Flamengo","Estádio Nacional de Brasília","0","2","AL","RJ",0,3
+"6590","9","12/6/2019","21:31","Santos","Corinthians","4-3-3","4-1-4-1","J. Sampaoli Moya","F. Carille","Santos","Estádio Urbano Caldeira","1","0","SP","SP",3,0
+"6591","9","13/6/2019","19:16","Vasco","Ceara","4-3-3","4-4-2","V. Luxemburgo da Silva","E. Alves Moreira","Vasco","Estádio Vasco da Gama","1","0","RJ","CE",3,0
+"6592","9","13/6/2019","20:00","Chapecoense","Fluminense","4-1-4-1","4-3-3","N. da Silveira Júnior","F. Diniz Silva","-","Arena Condá","1","1","SC","RJ",1,1
+"6593","9","13/6/2019","20:00","Palmeiras","Avai","4-2-3-1","4-1-4-1","L. Scolari","E. Machado Souto","Palmeiras","Allianz Parque","2","0","SP","SC",3,0
+"6594","9","13/6/2019","20:00","Atletico-MG","Sao Paulo","4-2-3-1","4-2-3-1","R. Marques Santana","A. Stival","-","Estádio Raimundo Sampaio","1","1","MG","SP",1,1
+"6595","9","13/6/2019","14:08","Goias","Athletico-PR","4-2-3-1","4-1-2-1-2","C. dos Santos Oliveira","T. Retzalff Nunes","Goias","Estádio do Governo do Estado de Goiás (Serra Dourada)","2","1","GO","PR",3,0
+"6596","10","13/7/2019","17:00","Gremio","Vasco","4-2-3-1","4-3-3","Renato Gaúcho","V. Luxemburgo da Silva","Gremio","Arena do Grêmio","2","1","RS","RJ",3,0
+"6597","10","13/7/2019","16:59","Fortaleza","Avai","4-4-2","4-2-3-1","R. Ceni","A. Valentim do Carmo Neto","Fortaleza","Arena Castelão","2","0","CE","SC",3,0
+"6598","10","13/7/2019","19:01","Bahia","Santos","4-3-3","3-4-3","R. Machado Marques","J. Sampaoli Moya","Santos","Estádio de Pituaçu","0","1","BA","SP",0,3
+"6599","10","13/7/2019","19:01","Sao Paulo","Palmeiras","4-2-3-1","4-2-3-1","A. Stival","L. Scolari","-"," Morumbi","1","1","SP","SP",1,1
+"6600","10","14/7/2019","11:00","Flamengo","Goias","4-1-3-2","4-2-3-1","J. Pinheiro de Jesus","C. dos Santos Oliveira","Flamengo"," Maracanã","6","1","RJ","GO",3,0
+"6601","10","14/7/2019","16:03","Corinthians","CSA","4-1-4-1","4-2-2-2","F. Carille","A. Fucks","Corinthians","Neo Química Arena","1","0","SP","AL",3,0
+"6602","10","14/7/2019","16:00","Athletico-PR","Internacional","4-2-3-1","4-3-3","T. Retzalff Nunes","O. Hellmann","Athletico-PR","Estádio Joaquim Américo Guimarães","1","0","PR","RS",3,0
+"6603","10","14/7/2019","16:00","Cruzeiro","Botafogo-RJ","4-2-3-1","4-3-3","L. Venker de Menezes","E. de Souza Barroca","-"," Mineirão","0","0","MG","RJ",1,1
+"6604","10","14/7/2019","19:00","Chapecoense","Atletico-MG","4-1-4-1","4-2-3-1","N. da Silveira Júnior","R. Marques Santana","Atletico-MG","Arena Condá","1","2","SC","MG",0,3
+"6605","10","15/7/2019","20:01","Fluminense","Ceara","4-3-3","4-1-4-1","F. Diniz Silva","E. Alves Moreira","-"," Maracanã","1","1","RJ","CE",1,1
+"6606","11","20/7/2019","11:02","Vasco","Fluminense","4-1-4-1","4-2-3-1","V. Luxemburgo da Silva","F. Diniz Silva","Vasco","Estádio Vasco da Gama","2","1","RJ","RJ",3,0
+"6607","11","20/7/2019","17:00","Bahia","Cruzeiro","4-1-4-1","4-3-3","R. Machado Marques","L. Venker de Menezes","-","Itaipava Arena Fonte Nova","0","0","BA","MG",1,1
+"6608","11","20/7/2019","19:01","Ceara","Palmeiras","4-4-2","4-2-3-1","E. Alves Moreira","L. Scolari","Ceara","Arena Castelão","2","0","CE","SP",3,0
+"6609","11","20/7/2019","16:10","CSA","Athletico-PR","4-3-1-2","4-2-3-1","A. Fucks","T. Retzalff Nunes","Athletico-PR","Estádio Rei Pelé","0","4","AL","PR",0,3
+"6610","11","20/7/2019","19:00","Internacional","Gremio","4-1-4-1","4-2-3-1","O. Hellmann","Renato Gaúcho","-","Estádio José Pinheiro Borda","1","1","RS","RS",1,1
+"6611","11","21/7/2019","11:01","Botafogo-RJ","Santos","4-1-4-1","4-3-3","E. de Souza Barroca","J. Sampaoli Moya","Santos","Estádio Nilton Santos","0","1","RJ","SP",0,3
+"6612","11","21/7/2019","16:02","Atletico-MG","Fortaleza","4-2-3-1","4-2-3-1","R. Marques Santana","R. Ceni","-","Estádio Raimundo Sampaio","2","2","MG","CE",1,1
+"6613","11","21/7/2019","16:01","Corinthians","Flamengo","4-1-4-1","4-1-4-1","F. Carille","J. Pinheiro de Jesus","-","Neo Química Arena","1","1","SP","RJ",1,1
+"6614","11","21/7/2019","19:00","Avai","Goias","4-2-3-1","4-2-3-1","A. Valentim do Carmo Neto","C. dos Santos Oliveira","-","  Ressacada","0","0","SC","GO",1,1
+"6615","11","22/7/2019","20:02","Sao Paulo","Chapecoense","4-2-3-1","4-2-3-1","A. Stival","N. da Silveira Júnior","Sao Paulo"," Morumbi","4","0","SP","SC",3,0
+"6616","12","27/7/2019","17:00","Palmeiras","Vasco","4-2-3-1","4-3-3","L. Scolari","V. Luxemburgo da Silva","-","Allianz Parque","1","1","SP","RJ",1,1
+"6617","12","27/7/2019","13:58","Cruzeiro","Athletico-PR","4-2-3-1","4-2-3-1","L. Venker de Menezes","T. Retzalff Nunes","Athletico-PR"," Mineirão","0","2","MG","PR",0,3
+"6618","12","27/7/2019","19:01","Fluminense","Sao Paulo","4-2-3-1","4-2-3-1","F. Diniz Silva","A. Stival","Sao Paulo"," Maracanã","1","2","RJ","SP",0,3
+"6619","12","27/7/2019","19:00","Internacional","Ceara","4-3-3","4-4-2","O. Hellmann","E. Alves Moreira","Internacional","Estádio José Pinheiro Borda","1","0","RS","CE",3,0
+"6620","12","28/7/2019","11:00","Chapecoense","Bahia","4-1-4-1","4-3-3","E. Hartkopp","R. Machado Marques","-","Arena Condá","0","0","SC","BA",1,1
+"6621","12","28/7/2019","15:59","Flamengo","Botafogo-RJ","4-4-2","4-1-4-1","J. Pinheiro de Jesus","E. de Souza Barroca","Flamengo"," Maracanã","3","2","RJ","RJ",3,0
+"6622","12","28/7/2019","16:01","Santos","Avai","4-3-3","4-1-4-1","J. Sampaoli Moya","A. Valentim do Carmo Neto","Santos","Estádio Urbano Caldeira","3","1","SP","SC",3,0
+"6623","12","28/7/2019","19:03","Goias","Atletico-MG","4-2-3-1","4-1-4-1","C. dos Santos Oliveira","R. Marques Santana","-","Estádio do Governo do Estado de Goiás (Serra Dourada)","0","0","GO","MG",1,1
+"6624","12","28/7/2019","19:00","Fortaleza","Corinthians","4-4-2","4-1-4-1","R. Ceni","F. Carille","Corinthians","Arena Castelão","1","3","CE","SP",0,3
+"6625","12","29/7/2019","20:02","CSA","Gremio","4-2-3-1","4-2-3-1","A. Fucks","Renato Gaúcho","-","Estádio Rei Pelé","0","0","AL","RS",1,1
+"6626","13","3/8/2019","19:01","Ceara","Fortaleza","4-2-3-1","4-4-2","E. Alves Moreira","R. Ceni","Ceara","Arena Castelão","2","1","CE","CE",3,0
+"6627","13","3/8/2019","19:00","Fluminense","Internacional","4-1-4-1","4-3-3","F. Diniz Silva","O. Hellmann","Fluminense"," Maracanã","2","1","RJ","RS",3,0
+"6628","13","4/8/2019","11:01","Santos","Goias","3-2-4-1","4-2-3-1","J. Sampaoli Moya","C. dos Santos Oliveira","Santos","Estádio Urbano Caldeira","6","1","SP","GO",3,0
+"6629","13","4/8/2019","16:00","Avai","Botafogo-RJ","4-2-3-1","4-1-4-1","A. Valentim do Carmo Neto","E. de Souza Barroca","Botafogo-RJ","  Ressacada","0","2","SC","RJ",0,3
+"6630","13","4/8/2019","16:01","Bahia","Flamengo","4-3-3","4-2-3-1","R. Machado Marques","J. Pinheiro de Jesus","Bahia","Itaipava Arena Fonte Nova","3","0","BA","RJ",3,0
+"6631","13","4/8/2019","19:00","Corinthians","Palmeiras","4-1-4-1","4-2-3-1","F. Carille","L. Scolari","-","Neo Química Arena","1","1","SP","SP",1,1
+"6632","13","4/8/2019","19:00","Vasco","CSA","4-2-3-1","4-2-3-1","V. Luxemburgo da Silva","A. Fucks","-","Kléber Andrade","0","0","RJ","AL",1,1
+"6633","13","4/8/2019","19:00","Atletico-MG","Cruzeiro","4-1-4-1","4-2-3-1","R. Marques Santana","L. Venker de Menezes","Atletico-MG","Estádio Raimundo Sampaio","2","0","MG","MG",3,0
+"6634","13","5/8/2019","20:00","Gremio","Chapecoense","4-2-3-1","4-4-1-1","Renato Gaúcho","E. Hartkopp","-","Arena do Grêmio","3","3","RS","SC",1,1
+"6575","7","7/8/2019","19:15","Corinthians","Goias","4-1-4-1","4-3-3","F. Carille","R. L. Martins Gomes","Corinthians","Neo Química Arena","2","0","SP","GO",3,0
+"6636","14","10/8/2019","17:01","Ceara","Chapecoense","4-2-3-1","4-4-1-1","E. Alves Moreira","E. Hartkopp","Ceara","Arena Castelão","4","1","CE","SC",3,0
+"6637","14","10/8/2019","17:03","Sao Paulo","Santos","4-2-3-1","4-3-3","A. Stival","J. Sampaoli Moya","Sao Paulo"," Morumbi","3","2","SP","SP",3,0
+"6638","14","10/8/2019","18:59","Flamengo","Gremio","4-2-2-2","4-2-3-1","J. Pinheiro de Jesus","Renato Gaúcho","Flamengo"," Maracanã","3","1","RJ","RS",3,0
+"6639","14","10/8/2019","21:00","Atletico-MG","Fluminense","4-2-3-1","4-1-4-1","R. Marques Santana","F. Diniz Silva","Atletico-MG","Estádio Raimundo Sampaio","2","1","MG","RJ",3,0
+"6640","14","11/8/2019","11:00","Internacional","Corinthians","4-3-3","4-1-4-1","O. Hellmann","F. Carille","-","Estádio José Pinheiro Borda","0","0","RS","SP",1,1
+"6641","14","11/8/2019","16:00","Palmeiras","Bahia","4-2-3-1","4-3-3","L. Scolari","R. Machado Marques","-","Allianz Parque","2","2","SP","BA",1,1
+"6642","14","11/8/2019","16:01","Avai","Cruzeiro","4-3-3","4-2-3-1","A. Valentim do Carmo Neto","R. Alves Resende","-","  Ressacada","2","2","SC","MG",1,1
+"6643","14","11/8/2019","16:01","Botafogo-RJ","Athletico-PR","4-1-4-1","4-2-3-1","E. de Souza Barroca","T. Retzalff Nunes","Botafogo-RJ","Estádio Nilton Santos","2","1","RJ","PR",3,0
+"6644","14","11/8/2019","19:00","Goias","Vasco","4-2-3-1","4-2-3-1","N. da Silveira Júnior","V. Luxemburgo da Silva","Vasco","Estádio do Governo do Estado de Goiás (Serra Dourada)","0","1","GO","RJ",0,3
+"6645","14","12/8/2019","20:01","CSA","Fortaleza","4-2-2-2","4-4-1-1","A. Fucks","M. Montenegro","Fortaleza","Estádio Rei Pelé","0","2","AL","CE",0,3
+"6646","15","17/8/2019","17:00","Corinthians","Botafogo-RJ","4-1-4-1","4-3-3","F. Carille","E. de Souza Barroca","Corinthians","Neo Química Arena","2","0","SP","RJ",3,0
+"6647","15","17/8/2019","17:19","Fortaleza","Internacional","4-4-1-1","4-3-3","J. Mannarino","O. Hellmann","Internacional","Arena Castelão","0","1","CE","RS",0,3
+"6648","15","17/8/2019","19:00","Vasco","Flamengo","4-3-3","4-2-3-1","V. Luxemburgo da Silva","J. Pinheiro de Jesus","Flamengo","Estádio Nacional de Brasília","1","4","RJ","RJ",0,3
+"6649","15","17/8/2019","11:04","Athletico-PR","Atletico-MG","4-2-3-1","4-2-3-1","T. Retzalff Nunes","R. Marques Santana","Athletico-PR","Estádio Joaquim Américo Guimarães","1","0","PR","MG",3,0
+"6650","15","17/8/2019","21:00","Gremio","Palmeiras","4-2-3-1","4-1-4-1","Renato Gaúcho","L. Scolari","-","Arena do Grêmio","1","1","RS","SP",1,1
+"6651","15","18/8/2019","16:00","Fluminense","CSA","4-1-4-1","4-2-2-2","F. Diniz Silva","A. Fucks","CSA"," Maracanã","0","1","RJ","AL",0,3
+"6652","15","18/8/2019","16:02","Sao Paulo","Ceara","4-1-4-1","4-2-3-1","A. Stival","E. Alves Moreira","Sao Paulo"," Morumbi","1","0","SP","CE",3,0
+"6653","15","18/8/2019","16:01","Bahia","Goias","4-2-3-1","4-4-2","R. Machado Marques","N. da Silveira Júnior","-","Itaipava Arena Fonte Nova","1","1","BA","GO",1,1
+"6654","15","18/8/2019","16:00","Cruzeiro","Santos","4-3-3","3-4-3","R. Ceni","J. Sampaoli Moya","Cruzeiro"," Mineirão","2","0","MG","SP",3,0
+"6655","15","18/8/2019","19:00","Chapecoense","Avai","4-2-3-1","4-3-3","E. Hartkopp","A. Valentim do Carmo Neto","Chapecoense","Arena Condá","1","0","SC","SC",3,0
+"6635","13","21/8/2019","11:58","Athletico-PR","Sao Paulo","4-2-3-1","4-2-3-1","T. Retzalff Nunes","A. Stival","Sao Paulo","Estádio Joaquim Américo Guimarães","0","1","PR","SP",0,3
+"6656","16","24/8/2019","11:00","Atletico-MG","Bahia","4-2-3-1","4-3-3","R. Marques Santana","R. Machado Marques","Bahia","Estádio Raimundo Sampaio","0","1","MG","BA",0,3
+"6657","16","24/8/2019","17:00","Gremio","Athletico-PR","4-2-3-1","4-1-4-1","Renato Gaúcho","T. Retzalff Nunes","Gremio","Arena do Grêmio","2","1","RS","PR",3,0
+"6658","16","25/8/2019","16:00","Goias","Internacional","4-4-2","4-3-3","N. da Silveira Júnior","O. Hellmann","Goias","Estádio do Governo do Estado de Goiás (Serra Dourada)","2","1","GO","RS",3,0
+"6659","16","25/8/2019","16:00","Vasco","Sao Paulo","4-1-4-1","4-1-4-1","V. Luxemburgo da Silva","A. Stival","Vasco","Estádio Vasco da Gama","2","0","RJ","SP",3,0
+"6660","16","25/8/2019","16:00","Santos","Fortaleza","4-3-3","4-2-3-1","J. Sampaoli Moya","J. Mannarino","-","Estádio Urbano Caldeira","3","3","SP","CE",1,1
+"6661","16","25/8/2019","19:01","Ceara","Flamengo","4-2-3-1","4-1-4-1","E. Alves Moreira","J. Pinheiro de Jesus","Flamengo","Arena Castelão","0","3","CE","RJ",0,3
+"6662","16","25/8/2019","19:01","Avai","Corinthians","4-3-3","4-1-4-1","A. Valentim do Carmo Neto","F. Carille","-","  Ressacada","1","1","SC","SP",1,1
+"6663","16","25/8/2019","19:00","CSA","Cruzeiro","4-1-2-1-2","4-2-3-1","A. Fucks","R. Ceni","-","Estádio Rei Pelé","1","1","AL","MG",1,1
+"6664","16","26/8/2019","20:00","Botafogo-RJ","Chapecoense","4-2-3-1","4-2-3-1","E. de Souza Barroca","E. Hartkopp","-","Estádio Nilton Santos","0","0","RJ","SC",1,1
+"6666","17","31/8/2019","11:02","Sao Paulo","Gremio","4-2-3-1","4-2-3-1","A. Stival","Renato Gaúcho","-"," Morumbi","0","0","SP","RS",1,1
+"6667","17","31/8/2019","17:01","Bahia","CSA","4-2-3-1","4-4-2","R. Machado Marques","A. Fucks","Bahia","Itaipava Arena Fonte Nova","1","0","BA","AL",3,0
+"6668","17","31/8/2019","19:02","Chapecoense","Santos","5-4-1","3-4-3","E. Hartkopp","J. Sampaoli Moya","Santos","Arena Condá","0","1","SC","SP",0,3
+"6669","17","31/8/2019","19:01","Athletico-PR","Ceara","4-2-3-1","4-2-3-1","T. Retzalff Nunes","E. Alves Moreira","Athletico-PR","Estádio Joaquim Américo Guimarães","1","0","PR","CE",3,0
+"6670","17","31/8/2019","21:00","Internacional","Botafogo-RJ","4-1-4-1","4-1-4-1","O. Hellmann","E. de Souza Barroca","Internacional","Estádio José Pinheiro Borda","3","2","RS","RJ",3,0
+"6671","17","1/9/2019","16:00","Flamengo","Palmeiras","4-2-3-1","4-1-4-1","J. Pinheiro de Jesus","L. Scolari","Flamengo"," Maracanã","3","0","RJ","SP",3,0
+"6672","17","1/9/2019","16:02","Fortaleza","Goias","4-2-3-1","4-4-1-1","J. Mannarino","N. da Silveira Júnior","Fortaleza","Arena Castelão","2","0","CE","GO",3,0
+"6673","17","1/9/2019","19:00","Cruzeiro","Vasco","4-2-3-1","4-1-4-1","R. Ceni","V. Luxemburgo da Silva","Cruzeiro"," Mineirão","1","0","MG","RJ",3,0
+"6674","17","1/9/2019","19:01","Corinthians","Atletico-MG","4-1-4-1","4-1-4-1","F. Carille","R. Marques Santana","Corinthians","Neo Química Arena","1","0","SP","MG",3,0
+"6675","17","2/9/2019","20:00","Fluminense","Avai","4-1-4-1","4-1-4-1","O. de Oliveira Filho","A. Valentim do Carmo Neto","Avai"," Maracanã","0","1","RJ","SC",0,3
+"6676","18","7/9/2019","11:02","Vasco","Bahia","4-2-3-1","4-3-3","V. Luxemburgo da Silva","R. Machado Marques","Bahia","Estádio Vasco da Gama","0","2","RJ","BA",0,3
+"6677","18","7/9/2019","11:01","Corinthians","Ceara","4-1-4-1","4-2-3-1","F. Carille","E. Alves Moreira","-","Neo Química Arena","2","2","SP","CE",1,1
+"6678","18","7/9/2019","17:01","Avai","Flamengo","4-5-1","4-2-3-1","A. Valentim do Carmo Neto","J. Pinheiro de Jesus","Flamengo","Estádio Nacional de Brasília","0","3","SC","RJ",0,3
+"6679","18","7/9/2019","17:01","Fortaleza","Fluminense","4-3-3","4-1-4-1","J. Mannarino","O. de Oliveira Filho","Fluminense","Arena Castelão","0","1","CE","RJ",0,3
+"6680","18","7/9/2019","19:00","Internacional","Sao Paulo","4-2-3-1","4-2-3-1","O. Hellmann","A. Stival","Internacional","Estádio José Pinheiro Borda","1","0","RS","SP",3,0
+"6681","18","7/9/2019","21:00","Goias","Palmeiras","4-2-3-1","4-2-3-1","N. da Silveira Júnior","L. Venker de Menezes","Palmeiras","Estádio do Governo do Estado de Goiás (Serra Dourada)","1","2","GO","SP",0,3
+"6682","18","8/9/2019","11:00","Cruzeiro","Gremio","4-2-3-1","4-2-3-1","R. Ceni","Renato Gaúcho","Gremio","Estádio Raimundo Sampaio","1","4","MG","RS",0,3
+"6683","18","8/9/2019","16:00","Santos","Athletico-PR","3-4-3","4-2-3-1","J. Sampaoli Moya","T. Retzalff Nunes","-","Estádio Urbano Caldeira","1","1","SP","PR",1,1
+"6684","18","8/9/2019","16:00","Botafogo-RJ","Atletico-MG","4-1-4-1","4-1-4-1","E. de Souza Barroca","R. Marques Santana","Botafogo-RJ","Estádio Nilton Santos","2","1","RJ","MG",3,0
+"6685","18","8/9/2019","19:00","CSA","Chapecoense","4-1-2-1-2","4-2-3-1","A. Fucks","E. Hartkopp","CSA","Estádio Rei Pelé","2","0","AL","SC",3,0
+"6665","16","10/9/2019","21:00","Palmeiras","Fluminense","4-2-3-1","4-1-4-1","L. Venker de Menezes","O. de Oliveira Filho","Palmeiras","Allianz Parque","3","0","SP","RJ",3,0
+"6686","19","14/9/2019","17:01","Flamengo","Santos","4-2-3-1","4-3-3","J. Pinheiro de Jesus","J. Sampaoli Moya","Flamengo"," Maracanã","1","0","RJ","SP",3,0
+"6687","19","14/9/2019","19:00","Chapecoense","Vasco","4-1-4-1","4-2-3-1","E. Hartkopp","V. Luxemburgo da Silva","Vasco","Arena Condá","1","2","SC","RJ",0,3
+"6688","19","14/9/2019","19:00","Palmeiras","Cruzeiro","4-2-3-1","4-2-3-1","L. Venker de Menezes","R. Ceni","Palmeiras","Allianz Parque","1","0","SP","MG",3,0
+"6689","19","14/9/2019","21:00","Ceara","Botafogo-RJ","4-2-3-1","4-1-4-1","E. Alves Moreira","E. de Souza Barroca","-","Arena Castelão","0","0","CE","RJ",1,1
+"6690","19","15/9/2019","11:21","Athletico-PR","Avai","4-1-4-1","4-1-4-1","T. Retzalff Nunes","A. Valentim do Carmo Neto","Avai","Estádio Joaquim Américo Guimarães","0","1","PR","SC",0,3
+"6691","19","15/9/2019","11:02","Atletico-MG","Internacional","4-1-4-1","4-2-3-1","R. Marques Santana","O. Hellmann","Internacional","Estádio Raimundo Sampaio","1","3","MG","RS",0,3
+"6692","19","15/9/2019","16:02","Bahia","Fortaleza","4-2-3-1","4-2-3-1","R. Machado Marques","J. Mannarino","-","Itaipava Arena Fonte Nova","1","1","BA","CE",1,1
+"6693","19","15/9/2019","16:00","Gremio","Goias","4-2-3-1","4-3-3","Renato Gaúcho","N. da Silveira Júnior","Gremio","Arena do Grêmio","3","0","RS","GO",3,0
+"6694","19","15/9/2019","16:00","Fluminense","Corinthians","4-2-3-1","4-1-4-1","O. de Oliveira Filho","F. Carille","Fluminense","Estádio Nacional de Brasília","1","0","RJ","SP",3,0
+"6695","19","15/9/2019","19:01","Sao Paulo","CSA","4-2-3-1","4-2-3-1","A. Stival","A. Fucks","-"," Morumbi","1","1","SP","AL",1,1
+"6696","20","21/9/2019","11:01","Botafogo-RJ","Sao Paulo","4-1-4-1","4-1-4-1","E. de Souza Barroca","A. Stival","Sao Paulo","Estádio Nilton Santos","1","2","RJ","SP",0,3
+"6697","20","21/9/2019","17:00","Cruzeiro","Flamengo","4-2-3-1","4-2-3-1","R. Ceni","J. Pinheiro de Jesus","Flamengo"," Mineirão","1","2","MG","RJ",0,3
+"6698","20","21/9/2019","19:03","Corinthians","Bahia","4-1-4-1","4-1-4-1","F. Carille","R. Machado Marques","Corinthians","Neo Química Arena","2","1","SP","BA",3,0
+"6699","20","21/9/2019","21:00","Santos","Gremio","4-3-3","4-2-3-1","J. Sampaoli Moya","Renato Gaúcho","Gremio","Estádio Urbano Caldeira","0","3","SP","RS",0,3
+"6700","20","22/9/2019","11:00","Internacional","Chapecoense","4-3-3","4-1-4-1","O. Hellmann","M. dos Santos Gonçalves","Internacional","Estádio José Pinheiro Borda","1","0","RS","SC",3,0
+"6701","20","22/9/2019","16:00","Fortaleza","Palmeiras","4-2-3-1","4-2-3-1","J. Mannarino","L. Venker de Menezes","Palmeiras","Arena Castelão","0","1","CE","SP",0,3
+"6702","20","22/9/2019","16:01","CSA","Ceara","4-2-3-1","4-2-3-1","A. Fucks","E. Alves Moreira","CSA","Estádio Rei Pelé","1","0","AL","CE",3,0
+"6703","20","22/9/2019","14:14","Vasco","Athletico-PR","4-1-4-1","4-1-4-1","V. Luxemburgo da Silva","T. Retzalff Nunes","-","Estádio Vasco da Gama","1","1","RJ","PR",1,1
+"6704","20","22/9/2019","19:00","Goias","Fluminense","4-4-1-1","4-2-3-1","N. da Silveira Júnior","O. de Oliveira Filho","Goias","Estádio do Governo do Estado de Goiás (Serra Dourada)","3","0","GO","RJ",3,0
+"6705","20","23/9/2019","20:00","Avai","Atletico-MG","4-1-4-1","4-2-3-1","A. Valentim do Carmo Neto","R. Marques Santana","Avai","  Ressacada","1","0","SC","MG",3,0
+"6706","21","25/9/2019","19:30","Ceara","Cruzeiro","4-2-3-1","4-1-4-1","E. Alves Moreira","R. Ceni","-","Arena Castelão","0","0","CE","MG",1,1
+"6707","21","25/9/2019","21:30","Bahia","Botafogo-RJ","4-1-4-1","4-4-1-1","R. Machado Marques","E. de Souza Barroca","Bahia","Itaipava Arena Fonte Nova","2","0","BA","RJ",3,0
+"6708","21","25/9/2019","21:30","Flamengo","Internacional","4-2-3-1","4-3-3","J. Pinheiro de Jesus","O. Hellmann","Flamengo"," Maracanã","3","1","RJ","RS",3,0
+"6709","21","25/9/2019","21:31","Sao Paulo","Goias","4-2-3-1","4-4-1-1","A. Stival","N. da Silveira Júnior","Goias"," Morumbi","0","1","SP","GO",0,3
+"6710","21","26/9/2019","19:15","Palmeiras","CSA","4-2-3-1","4-2-3-1","L. Venker de Menezes","A. Fucks","Palmeiras","Estádio Municipal Paulo Machado de Carvalho","6","2","SP","AL",3,0
+"6711","21","26/9/2019","20:00","Fluminense","Santos","4-1-4-1","3-4-3","O. de Oliveira Filho","J. Sampaoli Moya","-"," Maracanã","1","1","RJ","SP",1,1
+"6712","21","26/9/2019","20:00","Gremio","Avai","4-2-3-1","4-1-4-1","Renato Gaúcho","A. Valentim do Carmo Neto","Gremio","Arena do Grêmio","6","1","RS","SC",3,0
+"6713","21","26/9/2019","21:31","Athletico-PR","Fortaleza","4-1-4-1","4-2-3-1","T. Retzalff Nunes","J. Mannarino","Athletico-PR","Estádio Joaquim Américo Guimarães","4","1","PR","CE",3,0
+"6716","22","28/9/2019","19:00","Flamengo","Sao Paulo","4-2-3-1","4-1-4-1","J. Pinheiro de Jesus","F. Diniz Silva","-"," Maracanã","0","0","RJ","SP",1,1
+"6717","22","29/9/2019","11:03","Corinthians","Vasco","4-1-4-1","4-3-3","F. Carille","V. Luxemburgo da Silva","Corinthians","Neo Química Arena","1","0","SP","RJ",3,0
+"6718","22","29/9/2019","16:00","Santos","CSA","4-3-3","4-2-2-2","J. Sampaoli Moya","A. Fucks","Santos","Estádio Urbano Caldeira","2","0","SP","AL",3,0
+"6719","22","29/9/2019","16:00","Internacional","Palmeiras","4-3-3","4-2-3-1","O. Hellmann","L. Venker de Menezes","-","Estádio José Pinheiro Borda","1","1","RS","SP",1,1
+"6720","22","29/9/2019","16:00","Fluminense","Gremio","4-1-4-1","4-2-3-1","M. de Oliveira","Renato Gaúcho","Fluminense"," Maracanã","2","1","RJ","RS",3,0
+"6721","22","29/9/2019","15:11","Athletico-PR","Chapecoense","4-3-3","4-3-3","T. Retzalff Nunes","M. dos Santos Gonçalves","-","Estádio Joaquim Américo Guimarães","1","1","PR","SC",1,1
+"6722","22","29/9/2019","19:01","Atletico-MG","Ceara","4-1-4-1","4-2-3-1","R. Marques Santana","E. Alves Moreira","Atletico-MG","Estádio Raimundo Sampaio","2","1","MG","CE",3,0
+"6723","22","30/9/2019","20:00","Avai","Bahia","4-5-1","4-3-3","A. Valentim do Carmo Neto","R. Machado Marques","Bahia","  Ressacada","0","2","SC","BA",0,3
+"6724","22","30/9/2019","20:00","Fortaleza","Botafogo-RJ","4-2-3-1","4-1-4-1","R. Ceni","E. de Souza Barroca","Fortaleza","Arena Castelão","1","0","CE","RJ",3,0
+"6725","22","30/9/2019","20:01","Goias","Cruzeiro","4-3-3","4-2-3-1","N. da Silveira Júnior","A. da Silva Braga","Goias","Estádio do Governo do Estado de Goiás (Serra Dourada)","1","0","GO","MG",3,0
+"6714","21","2/10/2019","19:15","Atletico-MG","Vasco","4-2-3-1","4-4-2","R. Marques Santana","V. Luxemburgo da Silva","Vasco","Estádio Raimundo Sampaio","1","2","MG","RJ",0,3
+"6715","21","2/10/2019","19:16","Chapecoense","Corinthians","4-1-4-1","4-1-4-1","M. dos Santos Gonçalves","F. Carille","Corinthians","Arena Condá","0","1","SC","SP",0,3
+"6726","23","5/10/2019","17:00","Vasco","Santos","4-3-3","3-4-3","V. Luxemburgo da Silva","J. Sampaoli Moya","Santos","Estádio Vasco da Gama","0","1","RJ","SP",0,3
+"6727","23","5/10/2019","17:02","Sao Paulo","Fortaleza","4-1-4-1","4-2-3-1","F. Diniz Silva","R. Ceni","Sao Paulo","Estádio Municipal Paulo Machado de Carvalho","2","1","SP","CE",3,0
+"6728","23","5/10/2019","19:00","Gremio","Corinthians","4-2-3-1","4-4-1-1","Renato Gaúcho","F. Carille","-","Arena do Grêmio","0","0","RS","SP",1,1
+"6729","23","5/10/2019","19:02","Bahia","Athletico-PR","4-3-3","4-2-3-1","R. Machado Marques","T. Retzalff Nunes","Athletico-PR","Itaipava Arena Fonte Nova","1","2","BA","PR",0,3
+"6730","23","5/10/2019","21:00","Cruzeiro","Internacional","4-2-3-1","4-3-3","A. da Silva Braga","O. Hellmann","-"," Mineirão","1","1","MG","RS",1,1
+"6731","23","6/10/2019","11:01","Chapecoense","Flamengo","4-1-4-1","4-2-3-1","M. dos Santos Gonçalves","J. Pinheiro de Jesus","Flamengo","Arena Condá","0","1","SC","RJ",0,3
+"6732","23","6/10/2019","16:01","Ceara","Goias","4-4-2","4-3-3","A. Batista","N. da Silveira Júnior","Goias","Arena Castelão","0","1","CE","GO",0,3
+"6733","23","6/10/2019","16:00","Palmeiras","Atletico-MG","4-2-3-1","5-4-1","L. Venker de Menezes","R. Marques Santana","-","Allianz Parque","1","1","SP","MG",1,1
+"6734","23","6/10/2019","16:00","Botafogo-RJ","Fluminense","4-1-2-1-2","4-1-4-1","E. de Souza Barroca","M. de Oliveira","Fluminense","Estádio Nilton Santos","0","1","RJ","RJ",0,3
+"6735","23","6/10/2019","19:00","CSA","Avai","4-3-3","4-1-4-1","A. Fucks","A. Valentim do Carmo Neto","CSA","Estádio Rei Pelé","3","1","AL","SC",3,0
+"6736","24","9/10/2019","19:16","CSA","Internacional","4-2-3-1","4-3-3","A. Fucks","O. Hellmann","CSA","Estádio Rei Pelé","1","0","AL","RS",3,0
+"6737","24","9/10/2019","19:15","Botafogo-RJ","Goias","4-3-1-2","4-3-3","B. Lazaroni","N. da Silveira Júnior","Botafogo-RJ","Estádio Nilton Santos","3","1","RJ","GO",3,0
+"6738","24","9/10/2019","20:31","Fortaleza","Chapecoense","4-2-3-1","4-2-4-0","R. Ceni","M. dos Santos Gonçalves","Fortaleza","Arena Castelão","2","0","CE","SC",3,0
+"6739","24","9/10/2019","21:01","Bahia","Sao Paulo","4-1-4-1","4-2-3-1","R. Machado Marques","F. Diniz Silva","-","Itaipava Arena Fonte Nova","0","0","BA","SP",1,1
+"6740","24","9/10/2019","21:00","Gremio","Ceara","4-2-3-1","4-2-3-1","Renato Gaúcho","A. Batista","Gremio","Estádio Francisco Stédile (Centenário)","2","1","RS","CE",3,0
+"6741","24","9/10/2019","21:30","Cruzeiro","Fluminense","4-4-2","4-1-4-1","A. da Silva Braga","M. de Oliveira","-"," Mineirão","0","0","MG","RJ",1,1
+"6742","24","9/10/2019","21:30","Santos","Palmeiras","4-3-3","4-2-3-1","J. Sampaoli Moya","L. Venker de Menezes","Santos","Estádio Urbano Caldeira","2","0","SP","SP",3,0
+"6743","24","10/10/2019","15:24","Corinthians","Athletico-PR","4-2-3-1","4-3-3","F. Carille","T. Retzalff Nunes","-","Neo Química Arena","2","2","SP","PR",1,1
+"6744","24","10/10/2019","19:19","Avai","Vasco","4-2-3-1","4-2-3-1","A. Valentim do Carmo Neto","V. Luxemburgo da Silva","-","  Ressacada","0","0","SC","RJ",1,1
+"6745","24","10/10/2019","20:00","Flamengo","Atletico-MG","4-2-3-1","5-4-1","J. Pinheiro de Jesus","R. Marques Santana","Flamengo"," Maracanã","3","1","RJ","MG",3,0
+"6746","25","12/10/2019","17:01","Goias","CSA","4-3-3","4-2-3-1","N. da Silveira Júnior","A. Fucks","Goias","Estádio do Governo do Estado de Goiás (Serra Dourada)","1","0","GO","AL",3,0
+"6747","25","12/10/2019","19:00","Fluminense","Bahia","4-1-4-1","4-3-3","M. de Oliveira","R. Machado Marques","Fluminense"," Maracanã","2","0","RJ","BA",3,0
+"6748","25","12/10/2019","21:00","Palmeiras","Botafogo-RJ","4-2-3-1","4-1-4-1","L. Venker de Menezes","B. Lazaroni","Palmeiras","Estádio Municipal Paulo Machado de Carvalho","1","0","SP","RJ",3,0
+"6749","25","13/10/2019","16:00","Internacional","Santos","4-3-3","4-3-3","R. Colbachini","J. Sampaoli Moya","-","Estádio José Pinheiro Borda","0","0","RS","SP",1,1
+"6750","25","13/10/2019","13:22","Athletico-PR","Flamengo","4-1-4-1","4-2-3-1","T. Retzalff Nunes","J. Pinheiro de Jesus","Flamengo","Estádio Joaquim Américo Guimarães","0","2","PR","RJ",0,3
+"6751","25","13/10/2019","16:01","Ceara","Avai","4-2-3-1","4-1-4-1","A. Batista","E. Spinassé Camillato","Ceara","Arena Castelão","1","0","CE","SC",3,0
+"6752","25","13/10/2019","16:00","Vasco","Fortaleza","4-2-3-1","4-2-3-1","V. Luxemburgo da Silva","R. Ceni","Vasco","Estádio Vasco da Gama","1","0","RJ","CE",3,0
+"6753","25","13/10/2019","18:02","Sao Paulo","Corinthians","4-1-4-1","4-1-4-1","F. Diniz Silva","F. Carille","Sao Paulo"," Morumbi","1","0","SP","SP",3,0
+"6754","25","13/10/2019","19:00","Atletico-MG","Gremio","4-2-3-1","4-2-3-1","R. Marques Santana","Renato Gaúcho","Gremio","Estádio Raimundo Sampaio","1","4","MG","RS",0,3
+"6755","25","13/10/2019","19:01","Chapecoense","Cruzeiro","4-2-3-1","4-2-3-1","M. dos Santos Gonçalves","A. da Silva Braga","-","Arena Condá","1","1","SC","MG",1,1
+"6756","26","16/10/2019","19:16","CSA","Atletico-MG","4-2-3-1","4-1-4-1","A. Fucks","V. Carmo Mancini","-","Estádio Rei Pelé","2","2","AL","MG",1,1
+"6757","26","16/10/2019","19:16","Gremio","Bahia","4-2-3-1","4-2-3-1","Renato Gaúcho","R. Machado Marques","Bahia","Arena do Grêmio","0","1","RS","BA",0,3
+"6758","26","16/10/2019","20:00","Fortaleza","Flamengo","4-4-2","4-4-2","C. A. P. F. Hembert","J. Pinheiro de Jesus","Flamengo","Arena Castelão","1","2","CE","RJ",0,3
+"6759","26","16/10/2019","21:00","Cruzeiro","Sao Paulo","4-2-3-1","4-1-4-1","A. da Silva Braga","F. Diniz Silva","Cruzeiro"," Mineirão","1","0","MG","SP",3,0
+"6760","26","16/10/2019","21:00","Palmeiras","Chapecoense","4-2-3-1","4-2-3-1","L. Venker de Menezes","M. dos Santos Gonçalves","Palmeiras","Allianz Parque","1","0","SP","SC",3,0
+"6761","26","16/10/2019","21:31","Goias","Corinthians","4-2-3-1","4-1-4-1","N. da Silveira Júnior","F. Carille","-","Estádio do Governo do Estado de Goiás (Serra Dourada)","2","2","GO","SP",1,1
+"6762","26","16/10/2019","21:30","Vasco","Botafogo-RJ","4-2-3-1","4-1-4-1","V. Luxemburgo da Silva","A. Valentim do Carmo Neto","Vasco","Estádio Vasco da Gama","2","1","RJ","RJ",3,0
+"6763","26","17/10/2019","19:16","Avai","Internacional","4-3-3","4-3-3","E. Spinassé Camillato","R. Colbachini","Internacional","  Ressacada","0","2","SC","RS",0,3
+"6764","26","17/10/2019","19:15","Santos","Ceara","4-3-3","4-4-1-1","J. Sampaoli Moya","A. Batista","Santos","Estádio Urbano Caldeira","2","1","SP","CE",3,0
+"6765","26","17/10/2019","11:11","Fluminense","Athletico-PR","4-1-4-1","4-4-2","M. de Oliveira","T. Retzalff Nunes","Athletico-PR"," Maracanã","1","2","RJ","PR",0,3
+"6766","27","19/10/2019","17:00","Fortaleza","Gremio","4-2-3-1","4-2-3-1","R. Ceni","Renato Gaúcho","Fortaleza","Arena Castelão","2","1","CE","RS",3,0
+"6767","27","19/10/2019","19:01","Corinthians","Cruzeiro","4-1-4-1","4-2-3-1","F. Carille","A. da Silva Braga","Cruzeiro","Neo Química Arena","1","2","SP","MG",0,3
+"6768","27","20/10/2019","16:00","Internacional","Vasco","4-3-3","4-2-3-1","R. Colbachini","V. Luxemburgo da Silva","Vasco","Estádio José Pinheiro Borda","0","1","RS","RJ",0,3
+"6769","27","20/10/2019","16:00","Sao Paulo","Avai","4-1-4-1","4-3-3","F. Diniz Silva","E. Spinassé Camillato","Sao Paulo"," Morumbi","1","0","SP","SC",3,0
+"6770","27","20/10/2019","16:00","Atletico-MG","Santos","4-1-4-1","4-3-3","V. Carmo Mancini","J. Sampaoli Moya","Atletico-MG","Estádio Raimundo Sampaio","2","0","MG","SP",3,0
+"6771","27","20/10/2019","18:00","Flamengo","Fluminense","4-2-2-2","4-2-4-0","J. Pinheiro de Jesus","M. de Oliveira","Flamengo"," Maracanã","2","0","RJ","RJ",3,0
+"6772","27","20/10/2019","19:00","Chapecoense","Goias","4-2-3-1","4-2-3-1","M. dos Santos Gonçalves","N. da Silveira Júnior","-","Arena Condá","2","2","SC","GO",1,1
+"6773","27","20/10/2019","19:00","Athletico-PR","Palmeiras","4-2-3-1","4-2-3-1","T. Retzalff Nunes","L. Venker de Menezes","-","Estádio Joaquim Américo Guimarães","1","1","PR","SP",1,1
+"6774","27","21/10/2019","19:31","Bahia","Ceara","4-1-4-1","4-3-1-2","R. Machado Marques","A. Batista","Ceara","Estádio de Pituaçu","1","2","BA","CE",0,3
+"6775","27","21/10/2019","20:00","Botafogo-RJ","CSA","4-2-3-1","4-1-4-1","A. Valentim do Carmo Neto","A. Fucks","Botafogo-RJ","Estádio Nilton Santos","2","1","RJ","AL",3,0
+"6776","28","26/10/2019","17:01","Corinthians","Santos","4-1-4-1","4-3-3","F. Carille","J. Sampaoli Moya","-","Neo Química Arena","0","0","SP","SP",1,1
+"6777","28","26/10/2019","17:03","Ceara","Vasco","4-1-4-1","4-3-3","A. Batista","V. Luxemburgo da Silva","-","Arena Castelão","1","1","CE","RJ",1,1
+"6778","28","26/10/2019","19:02","Bahia","Internacional","4-3-3","4-2-3-1","R. Machado Marques","J. Mannarino","Internacional","Itaipava Arena Fonte Nova","2","3","BA","RS",0,3
+"6779","28","26/10/2019","19:30","Fluminense","Chapecoense","4-2-3-1","4-2-3-1","M. de Oliveira","M. dos Santos Gonçalves","-"," Maracanã","1","1","RJ","SC",1,1
+"6780","28","26/10/2019","11:04","Cruzeiro","Fortaleza","4-2-3-1","4-4-1-1","A. da Silva Braga","R. Ceni","-"," Mineirão","1","1","MG","CE",1,1
+"6781","28","27/10/2019","11:06","Athletico-PR","Goias","4-3-3","4-3-3","T. Retzalff Nunes","N. da Silveira Júnior","Athletico-PR","Estádio Joaquim Américo Guimarães","4","1","PR","GO",3,0
+"6782","28","27/10/2019","16:00","Gremio","Botafogo-RJ","4-2-2-2","4-2-3-1","Renato Gaúcho","A. Valentim do Carmo Neto","Gremio","Arena do Grêmio","3","0","RS","RJ",3,0
+"6783","28","27/10/2019","16:01","Sao Paulo","Atletico-MG","4-1-4-1","4-2-3-1","F. Diniz Silva","V. Carmo Mancini","Sao Paulo"," Morumbi","2","0","SP","MG",3,0
+"6784","28","27/10/2019","18:00","Avai","Palmeiras","5-4-1","4-2-3-1","E. Spinassé Camillato","L. Venker de Menezes","Palmeiras","  Ressacada","1","2","SC","SP",0,3
+"6785","28","27/10/2019","19:00","Flamengo","CSA","4-1-3-2","4-1-4-1","J. Pinheiro de Jesus","A. Fucks","Flamengo"," Maracanã","1","0","RJ","AL",3,0
+"6786","29","30/10/2019","19:30","Palmeiras","Sao Paulo","4-2-3-1","4-1-4-1","L. Venker de Menezes","F. Diniz Silva","Palmeiras","Allianz Parque","3","0","SP","SP",3,0
+"6787","29","30/10/2019","19:31","Avai","Fortaleza","4-3-3","4-4-2","E. Spinassé Camillato","R. Ceni","Fortaleza","  Ressacada","1","3","SC","CE",0,3
+"6788","29","30/10/2019","19:30","Atletico-MG","Chapecoense","4-1-4-1","4-1-4-1","V. Carmo Mancini","M. dos Santos Gonçalves","Chapecoense","Estádio Raimundo Sampaio","0","2","MG","SC",0,3
+"6789","29","30/10/2019","21:31","Ceara","Fluminense","4-4-2","4-1-4-1","A. Batista","M. de Oliveira","Ceara","Arena Castelão","2","0","CE","RJ",3,0
+"6790","29","30/10/2019","21:30","Vasco","Gremio","4-3-1-2","4-2-3-1","V. Luxemburgo da Silva","Renato Gaúcho","Gremio","Estádio Vasco da Gama","1","3","RJ","RS",0,3
+"6791","29","30/10/2019","21:32","CSA","Corinthians","4-2-3-1","4-1-4-1","A. Fucks","F. Carille","CSA","Estádio Rei Pelé","2","1","AL","SP",3,0
+"6792","29","31/10/2019","19:15","Santos","Bahia","4-3-3","4-3-3","J. Sampaoli Moya","R. Machado Marques","Santos","Estádio Urbano Caldeira","1","0","SP","BA",3,0
+"6793","29","31/10/2019","20:03","Goias","Flamengo","4-1-4-1","4-2-3-1","N. da Silveira Júnior","J. Pinheiro de Jesus","-","Estádio do Governo do Estado de Goiás (Serra Dourada)","2","2","GO","RJ",1,1
+"6794","29","31/10/2019","21:30","Internacional","Athletico-PR","4-2-3-1","4-2-3-1","J. Mannarino","T. Retzalff Nunes","-","Estádio José Pinheiro Borda","1","1","RS","PR",1,1
+"6795","29","31/10/2019","21:30","Botafogo-RJ","Cruzeiro","4-2-3-1","4-2-3-1","A. Valentim do Carmo Neto","A. da Silva Braga","Cruzeiro","Estádio Nilton Santos","0","2","RJ","MG",0,3
+"6796","30","2/11/2019","17:01","Fortaleza","Atletico-MG","4-2-3-1","4-2-3-1","R. Ceni","V. Carmo Mancini","-","Arena Castelão","2","2","CE","MG",1,1
+"6797","30","2/11/2019","19:01","Fluminense","Vasco","4-3-1-2","4-2-3-1","M. de Oliveira","V. Luxemburgo da Silva","-"," Maracanã","0","0","RJ","RJ",1,1
+"6798","30","2/11/2019","19:00","Palmeiras","Ceara","4-2-3-1","4-1-4-1","L. Venker de Menezes","A. Batista","Palmeiras","Allianz Parque","1","0","SP","CE",3,0
+"6799","30","2/11/2019","21:01","Chapecoense","Sao Paulo","4-1-4-1","4-2-3-1","M. dos Santos Gonçalves","F. Diniz Silva","Sao Paulo","Arena Condá","0","3","SC","SP",0,3
+"6800","30","3/11/2019","16:00","Flamengo","Corinthians","4-2-2-2","4-4-2","J. Pinheiro de Jesus","F. Carille","Flamengo"," Maracanã","4","1","RJ","SP",3,0
+"6801","30","3/11/2019","13:25","Athletico-PR","CSA","4-2-3-1","4-2-3-1","T. Retzalff Nunes","A. Fucks","Athletico-PR","Estádio Joaquim Américo Guimarães","1","0","PR","AL",3,0
+"6802","30","3/11/2019","18:00","Gremio","Internacional","4-2-3-1","4-2-3-1","Renato Gaúcho","J. Mannarino","Gremio","Arena do Grêmio","2","0","RS","RS",3,0
+"6803","30","3/11/2019","19:00","Santos","Botafogo-RJ","4-3-3","4-2-3-1","J. Sampaoli Moya","A. Valentim do Carmo Neto","Santos","Estádio Urbano Caldeira","4","1","SP","RJ",3,0
+"6804","30","3/11/2019","19:00","Cruzeiro","Bahia","4-2-3-1","4-3-3","A. da Silva Braga","R. Machado Marques","-"," Mineirão","1","1","MG","BA",1,1
+"6805","30","3/11/2019","19:31","Goias","Avai","4-2-3-1","4-4-2","N. da Silveira Júnior","E. Spinassé Camillato","Goias","Estádio do Governo do Estado de Goiás (Serra Dourada)","2","0","GO","SC",3,0
+"6806","31","6/11/2019","19:30","Corinthians","Fortaleza","4-2-3-1","4-2-3-1","Coelho","R. Ceni","Corinthians","Neo Química Arena","3","2","SP","CE",3,0
+"6807","31","6/11/2019","20:00","Atletico-MG","Goias","4-1-4-1","4-2-3-1","V. Carmo Mancini","N. da Silveira Júnior","Atletico-MG"," Mineirão","2","0","MG","GO",3,0
+"6808","31","6/11/2019","21:00","Avai","Santos","3-4-2-1","4-3-3","E. Spinassé Camillato","J. Sampaoli Moya","Santos","  Ressacada","1","2","SC","SP",0,3
+"6809","31","6/11/2019","13:23","Athletico-PR","Cruzeiro","4-2-3-1","4-2-3-1","E. de Barros","A. da Silva Braga","-","Estádio Joaquim Américo Guimarães","0","0","PR","MG",1,1
+"6810","31","6/11/2019","21:30","Vasco","Palmeiras","4-2-4-0","4-2-3-1","V. Luxemburgo da Silva","L. Venker de Menezes","Palmeiras","Estádio Vasco da Gama","1","2","RJ","SP",0,3
+"6811","31","6/11/2019","21:30","Bahia","Chapecoense","4-3-3","3-4-2-1","R. Machado Marques","M. dos Santos Gonçalves","-","Itaipava Arena Fonte Nova","1","1","BA","SC",1,1
+"6812","31","7/11/2019","19:30","Ceara","Internacional","4-4-2","4-2-3-1","A. Batista","J. Mannarino","Ceara","Arena Castelão","2","0","CE","RS",3,0
+"6813","31","7/11/2019","19:35","Sao Paulo","Fluminense","4-3-3","4-4-1-1","F. Diniz Silva","M. de Oliveira","Fluminense"," Morumbi","0","2","SP","RJ",0,3
+"6814","31","7/11/2019","20:00","Botafogo-RJ","Flamengo","4-1-4-1","4-2-3-1","A. Valentim do Carmo Neto","J. Pinheiro de Jesus","Flamengo","Estádio Nilton Santos","0","1","RJ","RJ",0,3
+"6815","31","7/11/2019","21:00","Gremio","CSA","4-2-3-1","4-2-2-2","Renato Gaúcho","A. Fucks","Gremio","Arena do Grêmio","2","1","RS","AL",3,0
+"6816","32","9/11/2019","17:02","Goias","Santos","4-1-4-1","4-3-3","N. da Silveira Júnior","J. Sampaoli Moya","Santos","Estádio do Governo do Estado de Goiás (Serra Dourada)","0","3","GO","SP",0,3
+"6817","32","9/11/2019","19:00","Palmeiras","Corinthians","4-2-3-1","4-4-1-1","L. Venker de Menezes","Coelho","-","Estádio Municipal Paulo Machado de Carvalho","1","1","SP","SP",1,1
+"6818","32","10/11/2019","16:00","Internacional","Fluminense","4-2-3-1","4-4-1-1","J. Mannarino","M. de Oliveira","Internacional","Estádio José Pinheiro Borda","2","1","RS","RJ",3,0
+"6819","32","10/11/2019","16:00","Cruzeiro","Atletico-MG","4-2-3-1","4-2-3-1","A. da Silva Braga","V. Carmo Mancini","-"," Mineirão","0","0","MG","MG",1,1
+"6820","32","10/11/2019","12:01","Sao Paulo","Athletico-PR","4-1-4-1","4-2-3-1","F. Diniz Silva","E. de Barros","Athletico-PR"," Morumbi","0","1","SP","PR",0,3
+"6821","32","10/11/2019","18:00","Flamengo","Bahia","4-2-3-1","4-3-3","J. Pires de Deus","R. Machado Marques","Flamengo"," Maracanã","3","1","RJ","BA",3,0
+"6822","32","10/11/2019","19:00","Chapecoense","Gremio","5-4-1","4-2-3-1","M. dos Santos Gonçalves","Renato Gaúcho","Gremio","Arena Condá","0","1","SC","RS",0,3
+"6823","32","10/11/2019","19:01","Fortaleza","Ceara","4-2-3-1","3-4-2-1","R. Ceni","A. Batista","Fortaleza","Arena Castelão","1","0","CE","CE",3,0
+"6824","32","10/11/2019","19:01","CSA","Vasco","4-2-3-1","4-2-3-1","A. Fucks","V. Luxemburgo da Silva","Vasco","Estádio Rei Pelé","0","3","AL","RJ",0,3
+"6825","32","11/11/2019","20:00","Botafogo-RJ","Avai","4-2-3-1","4-1-4-1","A. Valentim do Carmo Neto","E. Spinassé Camillato","Botafogo-RJ","Estádio Nilton Santos","2","0","RJ","SC",3,0
+"6826","34","13/11/2019","21:30","Flamengo","Vasco","4-2-3-1","4-1-2-1-2","J. Pinheiro de Jesus","V. Luxemburgo da Silva","-"," Maracanã","4","4","RJ","RJ",1,1
+"6836","33","16/11/2019","17:00","Santos","Sao Paulo","4-3-3","4-2-3-1","J. Sampaoli Moya","F. Diniz Silva","-","Estádio Urbano Caldeira","1","1","SP","SP",1,1
+"6837","33","16/11/2019","19:00","Fluminense","Atletico-MG","4-1-4-1","4-2-3-1","M. de Oliveira","V. Carmo Mancini","-"," Maracanã","1","1","RJ","MG",1,1
+"6838","33","17/11/2019","16:00","Gremio","Flamengo","4-2-3-1","4-2-3-1","Renato Gaúcho","J. Pinheiro de Jesus","Flamengo","Arena do Grêmio","0","1","RS","RJ",0,3
+"6839","33","17/11/2019","16:01","Bahia","Palmeiras","4-3-3","4-2-3-1","R. Machado Marques","L. Venker de Menezes","-","Itaipava Arena Fonte Nova","1","1","BA","SP",1,1
+"6840","33","17/11/2019","18:00","Chapecoense","Ceara","4-2-3-1","4-2-3-1","M. dos Santos Gonçalves","A. Batista","Chapecoense","Arena Condá","1","0","SC","CE",3,0
+"6841","33","17/11/2019","12:06","Athletico-PR","Botafogo-RJ","4-2-3-1","4-2-3-1","E. de Barros","A. Valentim do Carmo Neto","Athletico-PR","Estádio Joaquim Américo Guimarães","1","0","PR","RJ",3,0
+"6842","33","17/11/2019","18:00","Corinthians","Internacional","4-4-1-1","4-2-3-1","Coelho","J. Mannarino","-","Neo Química Arena","0","0","SP","RS",1,1
+"6843","33","17/11/2019","19:02","Fortaleza","CSA","4-2-3-1","4-2-3-1","R. Ceni","A. Fucks","Fortaleza","Arena Castelão","3","0","CE","AL",3,0
+"6844","33","18/11/2019","19:33","Vasco","Goias","4-1-4-1","4-4-1-1","V. Luxemburgo da Silva","N. da Silveira Júnior","-","Estádio Vasco da Gama","1","1","RJ","GO",1,1
+"6845","33","18/11/2019","20:00","Cruzeiro","Avai","4-2-3-1","4-4-2","A. da Silva Braga","E. Spinassé Camillato","-"," Mineirão","0","0","MG","SC",1,1
+"6827","34","23/11/2019","21:01","Santos","Cruzeiro","4-3-3","4-1-4-1","J. Sampaoli Moya","A. da Silva Braga","Santos","Estádio Urbano Caldeira","4","1","SP","MG",3,0
+"6828","34","24/11/2019","16:00","Palmeiras","Gremio","4-2-3-1","4-2-3-1","L. Venker de Menezes","Renato Gaúcho","Gremio","Allianz Parque","1","2","SP","RS",0,3
+"6829","34","24/11/2019","14:12","Atletico-MG","Athletico-PR","4-4-2","4-2-3-1","V. Carmo Mancini","E. de Barros","Athletico-PR"," Mineirão","0","1","MG","PR",0,3
+"6830","34","24/11/2019","16:02","Goias","Bahia","4-2-3-1","4-4-2","N. da Silveira Júnior","R. Machado Marques","Goias","Estádio do Governo do Estado de Goiás (Serra Dourada)","4","3","GO","BA",3,0
+"6831","34","24/11/2019","18:00","Botafogo-RJ","Corinthians","4-2-3-1","4-1-2-1-2","A. Valentim do Carmo Neto","Coelho","Botafogo-RJ","Estádio Nilton Santos","1","0","RJ","SP",3,0
+"6832","34","24/11/2019","19:02","Ceara","Sao Paulo","4-1-4-1","4-1-4-1","A. Batista","F. Diniz Silva","-","Arena Castelão","1","1","CE","SP",1,1
+"6833","34","24/11/2019","19:00","Internacional","Fortaleza","4-2-3-1","4-2-3-1","J. Mannarino","R. Ceni","-","Estádio José Pinheiro Borda","2","2","RS","CE",1,1
+"6834","34","24/11/2019","19:00","Avai","Chapecoense","4-3-3","4-2-3-1","E. Spinassé Camillato","M. dos Santos Gonçalves","Chapecoense","  Ressacada","0","1","SC","SC",0,3
+"6835","34","25/11/2019","20:00","CSA","Fluminense","4-2-3-1","4-4-1-1","A. Fucks","M. de Oliveira","Fluminense","Estádio Rei Pelé","0","1","AL","RJ",0,3
+"6846","35","27/11/2019","19:30","Internacional","Goias","4-2-3-1","4-1-4-1","J. Mannarino","N. da Silveira Júnior","Goias","Estádio José Pinheiro Borda","1","2","RS","GO",0,3
+"6847","35","27/11/2019","19:30","Chapecoense","Botafogo-RJ","4-1-4-1","4-1-4-1","M. dos Santos Gonçalves","A. Valentim do Carmo Neto","Botafogo-RJ","Arena Condá","0","1","SC","RJ",0,3
+"6848","35","27/11/2019","21:02","Bahia","Atletico-MG","4-2-3-1","4-2-3-1","R. Machado Marques","V. Carmo Mancini","-","Itaipava Arena Fonte Nova","1","1","BA","MG",1,1
+"6849","35","27/11/2019","19:51","Athletico-PR","Gremio","4-1-4-1","4-2-3-1","E. de Barros","Renato Gaúcho","Athletico-PR","Estádio Joaquim Américo Guimarães","2","0","PR","RS",3,0
+"6850","35","27/11/2019","21:31","Flamengo","Ceara","4-2-3-1","4-5-1","J. Pinheiro de Jesus","A. Batista","Flamengo"," Maracanã","4","1","RJ","CE",3,0
+"6851","35","27/11/2019","21:30","Corinthians","Avai","4-1-4-1","4-3-3","Coelho","E. Spinassé Camillato","Corinthians","Neo Química Arena","3","0","SP","SC",3,0
+"6852","35","28/11/2019","19:30","Fluminense","Palmeiras","4-4-1-1","4-2-3-1","M. de Oliveira","L. Venker de Menezes","Fluminense"," Maracanã","1","0","RJ","SP",3,0
+"6853","35","28/11/2019","20:01","Fortaleza","Santos","4-2-3-1","4-3-3","R. Ceni","J. Sampaoli Moya","Fortaleza","Arena Castelão","2","1","CE","SP",3,0
+"6854","35","28/11/2019","20:31","Sao Paulo","Vasco","4-2-3-1","4-2-3-1","F. Diniz Silva","V. Luxemburgo da Silva","Sao Paulo"," Morumbi","1","0","SP","RJ",3,0
+"6855","35","28/11/2019","21:30","Cruzeiro","CSA","4-2-3-1","4-2-3-1","A. da Silva Braga","A. Fucks","CSA"," Mineirão","0","1","MG","AL",0,3
+"6856","36","30/11/2019","19:00","Botafogo-RJ","Internacional","4-1-4-1","4-2-3-1","A. Valentim do Carmo Neto","J. Mannarino","Internacional","Estádio Nilton Santos","0","1","RJ","RS",0,3
+"6857","36","30/11/2019","19:00","Ceara","Athletico-PR","4-2-3-1","4-2-3-1","A. Fucks","E. de Barros","-","Arena Castelão","1","1","CE","PR",1,1
+"6858","36","1/12/2019","16:01","Avai","Fluminense","4-3-3","4-4-1-1","E. Spinassé Camillato","M. de Oliveira","-","  Ressacada","1","1","SC","RJ",1,1
+"6859","36","1/12/2019","15:59","Palmeiras","Flamengo","4-2-2-2","4-2-3-1","L. Venker de Menezes","J. Pinheiro de Jesus","Flamengo","Allianz Parque","1","3","SP","RJ",0,3
+"6860","36","1/12/2019","16:02","Goias","Fortaleza","4-2-3-1","4-2-3-1","N. da Silveira Júnior","R. Ceni","Fortaleza","Estádio do Governo do Estado de Goiás (Serra Dourada)","1","2","GO","CE",0,3
+"6861","36","1/12/2019","17:58","CSA","Bahia","4-2-3-1","4-3-3","G. Santos Vasconcelo","R. Machado Marques","Bahia","Estádio Rei Pelé","1","2","AL","BA",0,3
+"6862","36","1/12/2019","18:00","Atletico-MG","Corinthians","4-2-3-1","4-1-4-1","V. Carmo Mancini","Coelho","Atletico-MG","Estádio Raimundo Sampaio","2","1","MG","SP",3,0
+"6863","36","1/12/2019","19:00","Santos","Chapecoense","3-4-3","4-1-4-1","J. Sampaoli Moya","M. dos Santos Gonçalves","Santos","Estádio Urbano Caldeira","2","0","SP","SC",3,0
+"6864","36","1/12/2019","19:00","Gremio","Sao Paulo","4-2-3-1","4-1-4-1","Renato Gaúcho","F. Diniz Silva","Gremio","Arena do Grêmio","3","0","RS","SP",3,0
+"6865","36","2/12/2019","20:01","Vasco","Cruzeiro","4-3-3","4-3-3","V. Luxemburgo da Silva","A. Batista","Vasco","Estádio Vasco da Gama","1","0","RJ","MG",3,0
+"6866","37","4/12/2019","19:01","Athletico-PR","Santos","4-2-3-1","4-3-3","E. de Barros","J. Sampaoli Moya","Athletico-PR","Estádio Joaquim Américo Guimarães","1","0","PR","SP",3,0
+"6867","37","4/12/2019","19:31","Ceara","Corinthians","4-2-3-1","4-1-4-1","A. Fucks","Coelho","Corinthians","Arena Castelão","0","1","CE","SP",0,3
+"6868","37","4/12/2019","19:30","Atletico-MG","Botafogo-RJ","4-2-3-1","4-2-3-1","V. Carmo Mancini","A. Valentim do Carmo Neto","Atletico-MG"," Mineirão","2","0","MG","RJ",3,0
+"6869","37","4/12/2019","21:00","Chapecoense","CSA","4-5-1","4-2-3-1","M. dos Santos Gonçalves","G. Santos Vasconcelo","Chapecoense","Arena Condá","3","0","SC","AL",3,0
+"6870","37","4/12/2019","21:30","Fluminense","Fortaleza","4-2-3-1","4-2-3-1","M. de Oliveira","R. Ceni","-"," Maracanã","0","0","RJ","CE",1,1
+"6871","37","4/12/2019","21:30","Sao Paulo","Internacional","4-1-4-1","4-1-4-1","M. Longo de Araújo","J. Mannarino","Sao Paulo"," Morumbi","2","1","SP","RS",3,0
+"6872","37","5/12/2019","19:15","Gremio","Cruzeiro","4-2-3-1","4-1-4-1","Renato Gaúcho","A. Batista","Gremio","Arena do Grêmio","2","0","RS","MG",3,0
+"6873","37","5/12/2019","19:17","Palmeiras","Goias","4-2-3-1","4-3-3","A. Lopes dos Santos","N. da Silveira Júnior","Palmeiras","Estádio Brinco de Ouro","5","1","SP","GO",3,0
+"6874","37","5/12/2019","19:19","Bahia","Vasco","4-3-3","4-3-3","R. Machado Marques","V. Luxemburgo da Silva","-","Itaipava Arena Fonte Nova","1","1","BA","RJ",1,1
+"6875","37","5/12/2019","20:03","Flamengo","Avai","4-2-3-1","5-4-1","J. Pinheiro de Jesus","E. Spinassé Camillato","Flamengo"," Maracanã","6","1","RJ","SC",3,0
+"6876","38","8/12/2019","16:00","Corinthians","Fluminense","4-4-2","4-2-3-1","Coelho","M. de Oliveira","Fluminense","Neo Química Arena","1","2","SP","RJ",0,3
+"6877","38","8/12/2019","16:02","Santos","Flamengo","4-3-3","4-2-3-1","J. Sampaoli Moya","J. Pinheiro de Jesus","Santos","Estádio Urbano Caldeira","4","0","SP","RJ",3,0
+"6878","38","8/12/2019","16:00","Botafogo-RJ","Ceara","4-1-4-1","4-1-4-1","A. Valentim do Carmo Neto","A. Fucks","-","Estádio Nilton Santos","1","1","RJ","CE",1,1
+"6879","38","8/12/2019","16:01","CSA","Sao Paulo","4-2-3-1","4-3-3","G. Santos Vasconcelo","F. Diniz Silva","Sao Paulo","Estádio Rei Pelé","1","2","AL","SP",0,3
+"6880","38","8/12/2019","16:00","Internacional","Atletico-MG","4-2-3-1","4-2-3-1","J. Mannarino","V. Carmo Mancini","Internacional","Estádio José Pinheiro Borda","2","1","RS","MG",3,0
+"6881","38","8/12/2019","16:01","Cruzeiro","Palmeiras","4-3-3","4-2-3-1","A. Batista","A. Lopes dos Santos","Palmeiras"," Mineirão","0","2","MG","SP",0,3
+"6882","38","8/12/2019","16:01","Goias","Gremio","4-3-3","4-2-3-1","N. da Silveira Júnior","Renato Gaúcho","Goias","Estádio do Governo do Estado de Goiás (Serra Dourada)","3","2","GO","RS",3,0
+"6883","38","8/12/2019","16:01","Vasco","Chapecoense","4-3-3","4-1-4-1","V. Luxemburgo da Silva","M. dos Santos Gonçalves","-"," Maracanã","1","1","RJ","SC",1,1
+"6884","38","8/12/2019","16:08","Avai","Athletico-PR","4-2-3-1","4-2-3-1","E. Spinassé Camillato","E. de Barros","-","  Ressacada","0","0","SC","PR",1,1
+"6885","38","8/12/2019","16:01","Fortaleza","Bahia","4-2-3-1","4-3-3","R. Ceni","R. Machado Marques","Fortaleza","Arena Castelão","2","1","CE","BA",3,0
