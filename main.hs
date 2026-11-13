@@ -1,7 +1,6 @@
 
 import Data.Char (isSpace)
 import Data.List (intercalate, sortOn)
-
 import Data.Ord (Down(..))
 import Text.Read (readMaybe)
 import qualified Data.Map.Strict as Map
@@ -21,11 +20,15 @@ calcularPontos gol1 gol2
     | gol1 == gol2 = 1
     | otherwise    = 0
 
+-- Calcular saldo de gols
+calcularSaldo :: Int -> Int -> Int
+calcularSaldo golsPro golsContra = golsPro - golsContra
+
 -- Remover aspas e espaços
 limpar :: String -> String
 limpar = filter (\c -> c /= '"' && not (isSpace c))
 
--- Extrair ano de uma data no formato dia/mes/ano
+-- Extrair ano da data
 extrairAno :: String -> String
 extrairAno dataTexto =
     case reverse (splitData (limpar dataTexto)) of
@@ -48,57 +51,80 @@ main = do
     let cabecalho = head tabela
     let dados = tail tabela
 
-    -- Filtrar partidas da temporada escolhida
+    -- Filtrar temporada
     let dadosAno = filter (\linha ->
             length linha >= 14 &&
             extrairAno (linha !! 2) == ano
             ) dados
 
-    -- Calcular pontos de mandante e visitante
+    -- Calcular pontos e saldo de cada partida
     let novosDados = map (\linha ->
             let gol1 = readMaybe (limpar (linha !! 12)) :: Maybe Int
                 gol2 = readMaybe (limpar (linha !! 13)) :: Maybe Int
 
-                (pm, pv) = case (gol1, gol2) of
-                    (Just g1, Just g2) ->
-                        (show (calcularPontos g1 g2),
-                         show (calcularPontos g2 g1))
-                    _ -> ("", "")
+                (pm, pv, sm, sv) =
+                    case (gol1, gol2) of
+                        (Just g1, Just g2) ->
+                            ( show (calcularPontos g1 g2)
+                            , show (calcularPontos g2 g1)
+                            , show (calcularSaldo g1 g2)
+                            , show (calcularSaldo g2 g1)
+                            )
+                        _ -> ("", "", "", "")
 
-            in linha ++ [pm, pv]
+            in linha ++ [pm, pv, sm, sv]
             ) dadosAno
 
-    -- Transformar cada partida em dois registros
+    -- Cada partida gera dois registros:
+    -- (time, (pontos, saldo))
     let registros = concatMap (\linha ->
             let mandante = limpar (linha !! 4)
                 visitante = limpar (linha !! 5)
 
-                pm = readMaybe (last (init linha)) :: Maybe Int
-                pv = readMaybe (last linha) :: Maybe Int
+                gol1 = readMaybe (limpar (linha !! 12)) :: Maybe Int
+                gol2 = readMaybe (limpar (linha !! 13)) :: Maybe Int
 
-            in case (pm, pv) of
-                (Just p1, Just p2) ->
-                    [(mandante, p1), (visitante, p2)]
+            in case (gol1, gol2) of
+                (Just g1, Just g2) ->
+                    [ (mandante,
+                        (calcularPontos g1 g2, calcularSaldo g1 g2))
+                    , (visitante,
+                        (calcularPontos g2 g1, calcularSaldo g2 g1))
+                    ]
                 _ -> []
-            ) novosDados
+            ) dadosAno
 
-    -- Agrupar por time e somar os pontos
-    let classificacao = Map.fromListWith (+) registros
+    -- Agrupar por equipe e somar pontos e saldo
+    let classificacao = Map.fromListWith
+            (\(p1, s1) (p2, s2) -> (p1 + p2, s1 + s2))
+            registros
 
-    -- Ordenar do maior para o menor
-    let ranking = sortOn (Down . snd) (Map.toList classificacao)
+    -- Ordenar por pontos e depois saldo de gols
+    let ranking = sortOn
+            (\(_, (pontos, saldo)) -> (Down pontos, Down saldo))
+            (Map.toList classificacao)
 
     putStrLn ("CLASSIFICACAO - BRASILEIRAO " ++ ano)
-    putStrLn "--------------------------------"
+    putStrLn "----------------------------------------"
+    putStrLn "TIME | PONTOS | SALDO"
+    putStrLn "----------------------------------------"
 
-    mapM_ (\(time, pontos) ->
-        putStrLn (time ++ ": " ++ show pontos ++ " pontos")
+    mapM_ (\(time, (pontos, saldo)) ->
+        putStrLn (
+            time ++ " | " ++
+            show pontos ++ " | " ++
+            show saldo
+        )
         ) ranking
 
-    -- Salvar partidas com os pontos calculados
-    let resultado =
-            (cabecalho ++ ["pontos_mandante", "pontos_visitante"])
-            : novosDados
+    -- Criar CSV com novas colunas
+    let resultado = (cabecalho ++
+            [ "pontos_mandante"
+            , "pontos_visitante"
+            , "saldo_mandante"
+            , "saldo_visitante"
+            ]) : novosDados
 
+    -- Salvar CSV
     writeFile ("data/campeonato-" ++ ano ++ "-pontos.csv")
         (unlines (map (intercalate ",") resultado))
