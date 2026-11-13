@@ -1,4 +1,6 @@
 import Data.Char (isSpace)
+import Data.List (intercalate)
+import Text.Read (readMaybe)
 
 separarLinhas :: String -> [String]
 separarLinhas [] = [""]
@@ -13,7 +15,6 @@ calcularPontos gol1 gol2
     | gol1 == gol2 = 1
     | otherwise    = 0
 
-
 limpar :: String -> String
 limpar = filter (\c -> c /= '"' && not (isSpace c))
 
@@ -27,24 +28,29 @@ main = do
     let cabecalho = head tabela
     let dados = tail tabela
 
+    -- Calcular pontos do mandante e visitante
     let novosDados = map (\linha ->
-            let gol1 = read (limpar (linha !! 13)) :: Int
-                gol2 = read (limpar (linha !! 14)) :: Int
-                pontos = calcularPontos gol1 gol2
-            in linha ++ [show pontos]
-            ) dados
+            let gol1 = readMaybe (limpar (linha !! 12)) :: Maybe Int
+                gol2 = readMaybe (limpar (linha !! 13)) :: Maybe Int
 
-    let pontos = map (\linha -> read (last linha) :: Int) novosDados
+                (pontosMandante, pontosVisitante) =
+                    case (gol1, gol2) of
+                        (Just g1, Just g2) ->
+                            (show (calcularPontos g1 g2),
+                             show (calcularPontos g2 g1))
+                        _ -> ("", "")
 
-    let acumulados = scanl1 (+) pontos
+            in linha ++ [pontosMandante, pontosVisitante]
+            ) (filter (\linha -> length linha >= 14) dados)
 
-    let tabelaFinal = zipWith
-            (\linha total -> linha ++ [show total])
-            novosDados
-            acumulados
+    -- Criar tabela com novas colunas
+    let resultado =
+            (cabecalho ++ ["pontos_mandante", "pontos_visitante"])
+            : novosDados
 
-    let resultado = (cabecalho ++ ["pontos", "acumulados"]) : tabelaFinal
+    -- Mostrar as primeiras 5 partidas
+    mapM_ (putStrLn . intercalate ",") (take 6 resultado)
 
-    mapM_ print resultado
-    print ("dajo")
-    print ( resultado !! 1 )
+    -- Salvar resultado em outro CSV
+    writeFile "data/campeonato-com-pontos.csv"
+        (unlines (map (intercalate ",") resultado))
