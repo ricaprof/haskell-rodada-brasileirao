@@ -14,7 +14,7 @@ Linhas vazias e comentários iniciados por `#` são ignorados. A leitura valida 
 
 ## Organização
 
-O código da aplicação fica em `src/`, o exercício auxiliar de `map` está em `src/MapExercise.hs` e os testes ficam em `tests/`. Não há executáveis ou arquivos `.o` versionados.
+O código da aplicação fica em `src/`,  e os testes ficam em `tests/`. Não há executáveis ou arquivos `.o` versionados.
 
 ## Executar
 
