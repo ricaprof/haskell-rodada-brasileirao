@@ -37,6 +37,7 @@ main = do
   assert "campos incorretos" (temCamposInvalidos (C.todosOsErros "1;A;0;B"))
   assert "time contra si mesmo" (temMesmoTime (C.todosOsErros "1;A;0;1;A"))
   assert "conflito na rodada" (temTimeRepetido (C.todosOsErros "1;A;0;1;B\n1;A;1;0;C"))
+  assert "todos os times repetidos" (quantidadeTimesRepetidos (C.todosOsErros "1;A;0;1;B\n1;A;1;0;C\n1;C;2;0;D") == 2)
   assert "coleta vários erros" (length (C.todosOsErros "1;A;dois;0;B\n1;C;-1;0;D\n1;E;0;F") >= 3)
 
 prefixoDe :: String -> String -> Bool
@@ -60,4 +61,8 @@ temMesmoTime = any eh
 
 temTimeRepetido :: [C.Erro] -> Bool
 temTimeRepetido = any eh
+  where eh (C.TimeRepetidoNaRodada _ _ _) = True; eh _ = False
+
+quantidadeTimesRepetidos :: [C.Erro] -> Int
+quantidadeTimesRepetidos = length . filter eh
   where eh (C.TimeRepetidoNaRodada _ _ _) = True; eh _ = False

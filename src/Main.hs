@@ -2,7 +2,7 @@
 module Main where
 
 import Data.Char (isSpace)
-import Data.List (intercalate, sort, sortOn)
+import Data.List (intercalate, nub, sort, sortOn)
 import Data.Ord (Down (..))
 import Text.Read (readMaybe)
 
@@ -50,7 +50,7 @@ aproveitamento l | jogos l == 0 = 0 | otherwise = 100 * fromIntegral (pontosLinh
 
 classificacao :: [Partida] -> [Linha]
 classificacao ps = sortOn criterio (map (linhaDoTime ps) (times ps))
-  where criterio l = (Down (pontosLinha l), Down (vitorias l), Down (saldo l), time l)
+  where criterio l = (Down (pontosLinha l), Down (vitorias l), Down (saldo l), Down (golsPro l), time l)
 
 ateRodada :: Int -> [Partida] -> [Partida]
 ateRodada r = filter ((<= r) . rodada)
@@ -112,12 +112,9 @@ validarRepeticoes numeradas partidas = go [] (zip (map fst numeradas) partidas)
   where
     go _ [] = Right partidas
     go vistos ((linha, p):resto)
-      | any (\(r, t) -> r == rodada p && (t == mandante p || t == visitante p)) vistos =
-          Left (TimeRepetidoNaRodada linha (rodada p) (timeRepetido vistos p))
+      | t:_ <- timesRepetidos vistos p = Left (TimeRepetidoNaRodada linha (rodada p) t)
       | otherwise = go (vistos ++ [(rodada p, mandante p), (rodada p, visitante p)]) resto
-    timeRepetido vistos p = case filter (\(r, t) -> r == rodada p && (t == mandante p || t == visitante p)) vistos of
-      ((_, t):_) -> t
-      [] -> mandante p
+    timesRepetidos vistos p = nub [t | t <- [mandante p, visitante p], any (\(r, visto) -> r == rodada p && visto == t) vistos]
 
 todosOsErros :: String -> [Erro]
 todosOsErros conteudo = errosDeLeitura ++ errosDeRepeticao
@@ -129,12 +126,11 @@ todosOsErros conteudo = errosDeLeitura ++ errosDeRepeticao
     errosDeRepeticao = repetir [] validas
     repetir _ [] = []
     repetir vistos ((linha, p):resto)
-      | any (\(r, t) -> r == rodada p && (t == mandante p || t == visitante p)) vistos =
-          TimeRepetidoNaRodada linha (rodada p) (timeRepetido vistos p) : repetir vistos resto
+      | not (null repetidos) = map (TimeRepetidoNaRodada linha (rodada p)) repetidos ++ repetir vistosAtualizado resto
       | otherwise = repetir (vistos ++ [(rodada p, mandante p), (rodada p, visitante p)]) resto
-    timeRepetido vistos p = case filter (\(r, t) -> r == rodada p && (t == mandante p || t == visitante p)) vistos of
-      ((_, t):_) -> t
-      [] -> mandante p
+      where
+        repetidos = nub [t | t <- [mandante p, visitante p], any (\(r, visto) -> r == rodada p && visto == t) vistos]
+        vistosAtualizado = vistos ++ [(rodada p, mandante p), (rodada p, visitante p)]
 
 linhasUteis :: String -> [String]
 linhasUteis = map snd . linhasComNumero

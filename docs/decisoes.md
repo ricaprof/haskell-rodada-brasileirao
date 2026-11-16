@@ -18,4 +18,4 @@ O formato oficial é separado por ponto e vírgula. A função `converterCSVHist
 
 ## Classificação
 
-A ordenação usa pontos, vitórias, saldo e nome como desempate determinístico. `aproveitamento` é o percentual dos pontos obtidos sobre o máximo possível, no intervalo de `0` a `100`.
+A ordenação usa pontos, vitórias, saldo, gols pró e nome como desempate determinístico. O regulamento de 2019 ainda prevê confronto direto, cartões e sorteio; esses critérios não podem ser calculados porque os dados fornecidos não possuem confrontos separados para desempate, cartões ou sorteio. `aproveitamento` é o percentual dos pontos obtidos sobre o máximo possível, no intervalo de `0` a `100`.

@@ -1,4 +1,4 @@
-module Main where
+module MapExercise where
 
 tamanho :: [a] -> Int
 tamanho [] = 0
