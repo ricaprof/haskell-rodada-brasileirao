@@ -25,4 +25,4 @@ O programa também mantém um adaptador (`converterCSVHistorico`) para o CSV his
 
 ## API principal
 
-`Time`, `Resultado`, `Partida` e `Linha` formam o modelo do domínio. As funções puras incluem `participou`, `resultadoPara`, `times`, `pontos`, `linhaDoTime`, `classificacao`, `ateRodada`, `maiorGoleada`, `mediaGols`, `lerPartida`, `lerCampeonato` e `todosOsErros`.
+`Time`, `Resultado`, `Partida` e `Linha` formam o modelo do domínio. As funções puras incluem `participou`, `resultadoPara`, `times`, `pontos`, `linhaDoTime`, `classificacao`, `ateRodada`, `maiorGoleada`, `mediaGols`, `tabelaFormatada`, `separar`, `lerPartida`, `lerCampeonato` e `todosOsErros`. `lerPartida` e `lerCampeonato` usam `Either Erro` e param no primeiro erro; `todosOsErros` coleta todos os erros possíveis.

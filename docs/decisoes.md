@@ -10,7 +10,7 @@
 
 ## Erros
 
-O parser retorna `Either [Erro] Partida` e `Either [Erro] [Partida]`, permitindo que a chamada preserve todos os problemas detectados. O número da linha é guardado em cada erro; conflitos entre equipes na mesma rodada usam linha `0` porque são erros relacionais do conjunto, não de uma linha isolada.
+O parser retorna `Either Erro Partida` e `Either Erro [Partida]`; `traverse` faz a leitura parar no primeiro erro. A função `todosOsErros` percorre novamente a entrada para produzir um relatório completo. Cada construtor de `Erro` preserva o número da linha, inclusive conflitos entre equipes na mesma rodada.
 
 ## Entrada
 
@@ -18,4 +18,4 @@ O formato oficial é separado por ponto e vírgula. A função `converterCSVHist
 
 ## Classificação
 
-A ordenação usa pontos, vitórias, saldo e nome como desempate determinístico. `aproveitamento` é a fração dos pontos obtidos sobre o máximo possível, no intervalo de `0` a `1`.
+A ordenação usa pontos, vitórias, saldo e nome como desempate determinístico. `aproveitamento` é o percentual dos pontos obtidos sobre o máximo possível, no intervalo de `0` a `100`.
